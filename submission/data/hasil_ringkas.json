@@ -1,0 +1,21 @@
+{
+  "global_rows": 23463,
+  "regional_rows": 1227,
+  "countries": 9,
+  "median_aqi": 59.0,
+  "mean_aqi": 71.59087204563977,
+  "share_above100_pct": 16.462917685411576,
+  "pm25_pearson": 0.9904823379001185,
+  "max_match_pct": 100.0,
+  "pm25_match_pct": 93.480032599837,
+  "category_counts": {
+    "Good": 390,
+    "Moderate": 630,
+    "Unhealthy for Sensitive Groups": 84,
+    "Unhealthy": 106,
+    "Very Unhealthy": 17,
+    "Hazardous": 0
+  },
+  "source_url": "https://www.kaggle.com/code/kimpilso/asean-air-pollution-capstone-g5-ds-greatedu/input",
+  "dataset_sha256": "e1fc6e682edb8a2102d87e182b844fc8cde49e10763c0ef4293e510bbe240f69"
+}

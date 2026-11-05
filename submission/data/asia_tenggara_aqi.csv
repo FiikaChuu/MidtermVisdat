@@ -1,0 +1,1228 @@
+Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category
+Indonesia,Pontianak,44,Good,1,Good,15,Good,0,Good,44,Good
+Philippines,Dipolog,30,Good,1,Good,17,Good,0,Good,30,Good
+Philippines,Guiset,66,Moderate,1,Good,26,Good,1,Good,66,Moderate
+Vietnam,Tay Ninh,45,Good,0,Good,18,Good,1,Good,45,Good
+Vietnam,Thai Nguyen,150,Unhealthy,3,Good,150,Unhealthy,1,Good,105,Unhealthy for Sensitive Groups
+Indonesia,Tidore,21,Good,0,Good,13,Good,0,Good,21,Good
+Philippines,Toboso,54,Moderate,1,Good,20,Good,0,Good,54,Moderate
+Philippines,Jasaan,59,Moderate,1,Good,32,Good,0,Good,59,Moderate
+Philippines,Indang,50,Good,0,Good,24,Good,0,Good,50,Good
+Vietnam,Tuyen Quang,167,Unhealthy,4,Good,167,Unhealthy,1,Good,107,Unhealthy for Sensitive Groups
+Thailand,Sungai Kolok,65,Moderate,1,Good,34,Good,0,Good,65,Moderate
+Indonesia,Sungaipenuh,17,Good,1,Good,13,Good,0,Good,17,Good
+Philippines,Tagaytay,41,Good,1,Good,25,Good,1,Good,41,Good
+Philippines,Talacogon,37,Good,1,Good,19,Good,0,Good,37,Good
+Philippines,Tantangan,35,Good,1,Good,20,Good,0,Good,35,Good
+Indonesia,Tarogong,88,Moderate,2,Good,53,Moderate,1,Good,88,Moderate
+Myanmar,Akyab,145,Unhealthy for Sensitive Groups,1,Good,46,Good,0,Good,145,Unhealthy for Sensitive Groups
+Malaysia,Ayer Keroh,59,Moderate,1,Good,34,Good,0,Good,59,Moderate
+Thailand,Ban Phai,52,Moderate,0,Good,28,Good,0,Good,52,Moderate
+Malaysia,Bandar Penggaram,76,Moderate,1,Good,39,Good,0,Good,76,Moderate
+Philippines,Bangued,27,Good,0,Good,23,Good,0,Good,27,Good
+Malaysia,Batu Gajah,92,Moderate,2,Good,57,Moderate,1,Good,92,Moderate
+Philippines,Catbalogan,68,Moderate,1,Good,26,Good,0,Good,68,Moderate
+Vietnam,Chau Doc,57,Moderate,1,Good,32,Good,0,Good,57,Moderate
+Indonesia,Binjai,92,Moderate,2,Good,45,Good,0,Good,92,Moderate
+Philippines,Baras,51,Moderate,1,Good,27,Good,1,Good,51,Moderate
+Thailand,Nong Bua,38,Good,0,Good,20,Good,0,Good,38,Good
+Thailand,Nong Han,57,Moderate,0,Good,25,Good,0,Good,57,Moderate
+Philippines,Palo,55,Moderate,1,Good,20,Good,0,Good,55,Moderate
+Indonesia,Pamekasan,54,Moderate,1,Good,35,Good,0,Good,54,Moderate
+Thailand,Phanom Thuan,42,Good,0,Good,19,Good,0,Good,42,Good
+Thailand,Phatthalung,59,Moderate,1,Good,27,Good,0,Good,59,Moderate
+Thailand,Phetchaburi,35,Good,0,Good,17,Good,0,Good,35,Good
+Indonesia,Prabumulih,49,Good,1,Good,30,Good,0,Good,49,Good
+Indonesia,Pringsewu,63,Moderate,2,Good,40,Good,0,Good,63,Moderate
+Thailand,Phrai Bung,53,Moderate,0,Good,27,Good,0,Good,53,Moderate
+Thailand,Ranong,36,Good,0,Good,16,Good,0,Good,36,Good
+Philippines,Romblon,50,Good,1,Good,23,Good,0,Good,50,Good
+Thailand,Dan Khun Thot,56,Moderate,1,Good,31,Good,0,Good,56,Moderate
+Thailand,Lam Luk Ka,66,Moderate,1,Good,28,Good,1,Good,66,Moderate
+Philippines,Lamacan,70,Moderate,1,Good,21,Good,0,Good,70,Moderate
+Philippines,Lianga,50,Good,1,Good,20,Good,0,Good,50,Good
+Malaysia,Limbang,95,Moderate,9,Good,95,Moderate,0,Good,46,Good
+Indonesia,Lubuk Pakam,98,Moderate,2,Good,47,Good,0,Good,98,Moderate
+Philippines,Lucena,32,Good,1,Good,29,Good,0,Good,32,Good
+Philippines,Malandag,55,Moderate,1,Good,19,Good,0,Good,55,Moderate
+Myanmar,Kyaiklat,61,Moderate,0,Good,21,Good,0,Good,61,Moderate
+Cambodia,Kampot,59,Moderate,1,Good,27,Good,0,Good,59,Moderate
+Malaysia,Masjid Tanah,79,Moderate,2,Good,36,Good,0,Good,79,Moderate
+Philippines,Medellin,78,Moderate,1,Good,31,Good,0,Good,78,Moderate
+Indonesia,Mojoagung,155,Unhealthy,3,Good,91,Moderate,2,Good,155,Unhealthy
+Philippines,Montalban,70,Moderate,1,Good,23,Good,2,Good,70,Moderate
+Thailand,Khiri Mat,81,Moderate,0,Good,23,Good,0,Good,81,Moderate
+Myanmar,Loikaw,15,Good,0,Good,15,Good,0,Good,10,Good
+Philippines,Manay,25,Good,0,Good,15,Good,0,Good,25,Good
+Philippines,Manibaug,65,Moderate,1,Good,22,Good,1,Good,65,Moderate
+Malaysia,Lahad Datu,48,Good,1,Good,15,Good,0,Good,48,Good
+Indonesia,Lamongan,167,Unhealthy,3,Good,123,Unhealthy for Sensitive Groups,1,Good,167,Unhealthy
+Indonesia,Karang Tengah,105,Unhealthy for Sensitive Groups,2,Good,59,Moderate,1,Good,105,Unhealthy for Sensitive Groups
+Indonesia,Kembaran,54,Moderate,1,Good,29,Good,1,Good,54,Moderate
+Thailand,Lang Suan,32,Good,0,Good,16,Good,0,Good,32,Good
+Philippines,Lun,15,Good,0,Good,15,Good,0,Good,15,Good
+Indonesia,Malang,67,Moderate,1,Good,36,Good,0,Good,67,Moderate
+Philippines,Malaya,57,Moderate,1,Good,25,Good,1,Good,57,Moderate
+Philippines,Manapla,54,Moderate,1,Good,22,Good,0,Good,54,Moderate
+Philippines,Margosatubig,17,Good,0,Good,16,Good,0,Good,17,Good
+Thailand,Kumphawapi,57,Moderate,0,Good,24,Good,0,Good,57,Moderate
+Indonesia,Kutoarjo,58,Moderate,1,Good,28,Good,0,Good,58,Moderate
+Indonesia,Mataram,34,Good,1,Good,25,Good,0,Good,34,Good
+Indonesia,Mertoyudan,66,Moderate,1,Good,32,Good,1,Good,66,Moderate
+Indonesia,Driyorejo,157,Unhealthy,2,Good,84,Moderate,2,Good,157,Unhealthy
+Malaysia,Gurun,54,Moderate,1,Good,47,Good,0,Good,54,Moderate
+Indonesia,Ngaglik,60,Moderate,1,Good,29,Good,1,Good,60,Moderate
+Thailand,Phu Khieo,37,Good,0,Good,26,Good,0,Good,37,Good
+Thailand,Phuket,43,Good,1,Good,33,Good,0,Good,43,Good
+Indonesia,Purwakarta,101,Unhealthy for Sensitive Groups,2,Good,90,Moderate,1,Good,101,Unhealthy for Sensitive Groups
+Thailand,Pakxan,53,Moderate,1,Good,27,Good,0,Good,53,Moderate
+Indonesia,Palembang,74,Moderate,2,Good,47,Good,0,Good,74,Moderate
+Indonesia,Pameungpeuk,97,Moderate,2,Good,70,Moderate,1,Good,97,Moderate
+Philippines,Pantubig,62,Moderate,1,Good,23,Good,1,Good,62,Moderate
+Myanmar,Labutta,30,Good,1,Good,30,Good,0,Good,28,Good
+Indonesia,Leuwiliang,264,Very Unhealthy,15,Good,8,Good,52,Moderate,264,Very Unhealthy
+Indonesia,Sidareja,189,Unhealthy,10,Good,7,Good,25,Good,189,Unhealthy
+Myanmar,Yandoon,41,Good,1,Good,20,Good,1,Good,41,Good
+Indonesia,Wlingi,176,Unhealthy,8,Good,10,Good,17,Good,176,Unhealthy
+Indonesia,Mlonggo,82,Moderate,2,Good,50,Good,1,Good,82,Moderate
+Thailand,Nakhon Sawan,21,Good,0,Good,21,Good,0,Good,20,Good
+Indonesia,Ngoro,121,Unhealthy for Sensitive Groups,2,Good,60,Moderate,1,Good,121,Unhealthy for Sensitive Groups
+Vietnam,Cao Bang,47,Good,1,Good,32,Good,0,Good,47,Good
+Malaysia,Chaah,81,Moderate,1,Good,44,Good,0,Good,81,Moderate
+Thailand,Dok Kham Tai,24,Good,0,Good,24,Good,0,Good,17,Good
+Philippines,Domalandan,60,Moderate,1,Good,25,Good,1,Good,60,Moderate
+Indonesia,Ciampea,154,Unhealthy,4,Good,154,Unhealthy,2,Good,126,Unhealthy for Sensitive Groups
+Philippines,Claveria,95,Moderate,1,Good,23,Good,0,Good,95,Moderate
+Thailand,Bo Phloi,29,Good,0,Good,19,Good,0,Good,29,Good
+Indonesia,Balaipungut,57,Moderate,2,Good,12,Good,2,Good,57,Moderate
+Thailand,Ban Dung,82,Moderate,3,Good,8,Good,5,Good,82,Moderate
+Indonesia,Bandung,198,Unhealthy,11,Good,6,Good,30,Good,198,Unhealthy
+Indonesia,Boyolali,201,Very Unhealthy,12,Good,2,Good,28,Good,201,Very Unhealthy
+Indonesia,Brebes,151,Unhealthy,5,Good,23,Good,10,Good,151,Unhealthy
+Philippines,Bulihan,75,Moderate,1,Good,27,Good,5,Good,75,Moderate
+Philippines,Casisang,57,Moderate,1,Good,9,Good,3,Good,57,Moderate
+Thailand,Chiang Rai,67,Moderate,2,Good,13,Good,2,Good,67,Moderate
+Vietnam,Bac Giang,179,Unhealthy,10,Good,8,Good,22,Good,179,Unhealthy
+Vietnam,Quang Ngai,62,Moderate,1,Good,32,Good,0,Good,62,Moderate
+Indonesia,Sabang,40,Good,1,Good,23,Good,0,Good,40,Good
+Thailand,Samut Sakhon,53,Moderate,1,Good,23,Good,0,Good,53,Moderate
+Thailand,Phibun Mangsahan,57,Moderate,1,Good,24,Good,0,Good,57,Moderate
+Cambodia,Phumi Samraong,58,Moderate,1,Good,30,Good,0,Good,58,Moderate
+Philippines,Pinamungahan,58,Moderate,1,Good,23,Good,0,Good,58,Moderate
+Philippines,Alabel,19,Good,0,Good,16,Good,0,Good,19,Good
+Thailand,Seka,57,Moderate,1,Good,28,Good,0,Good,57,Moderate
+Indonesia,Sumber,54,Moderate,1,Good,34,Good,0,Good,54,Moderate
+Indonesia,Waingapu,55,Moderate,0,Good,25,Good,0,Good,55,Moderate
+Philippines,Angeles,65,Moderate,1,Good,22,Good,1,Good,65,Moderate
+Philippines,Astorga,39,Good,1,Good,15,Good,0,Good,39,Good
+Indonesia,Balung,100,Unhealthy for Sensitive Groups,2,Good,45,Good,1,Good,100,Unhealthy for Sensitive Groups
+Philippines,Bocaue,65,Moderate,1,Good,23,Good,1,Good,65,Moderate
+Philippines,Buayan,36,Good,0,Good,16,Good,0,Good,36,Good
+Philippines,Carmen,80,Moderate,1,Good,26,Good,0,Good,80,Moderate
+Malaysia,Tanah Merah,76,Moderate,1,Good,30,Good,0,Good,76,Moderate
+Malaysia,Tanjong Malim,90,Moderate,2,Good,47,Good,0,Good,90,Moderate
+Vietnam,Tuy Hoa,51,Moderate,1,Good,26,Good,0,Good,51,Moderate
+Philippines,Urdaneta,77,Moderate,1,Good,26,Good,1,Good,77,Moderate
+Indonesia,Wanaraja,57,Moderate,1,Good,29,Good,1,Good,57,Moderate
+Vietnam,Ben Tre,77,Moderate,1,Good,27,Good,2,Good,77,Moderate
+Malaysia,Sri Aman,50,Good,1,Good,10,Good,0,Good,50,Good
+Indonesia,Sukaraja,67,Moderate,1,Good,40,Good,1,Good,67,Moderate
+Laos,Vientiane,45,Good,1,Good,26,Good,0,Good,45,Good
+Thailand,Pak Phanang,69,Moderate,2,Good,34,Good,0,Good,69,Moderate
+Thailand,Prachin Buri,57,Moderate,1,Good,30,Good,1,Good,57,Moderate
+Indonesia,Prigen,153,Unhealthy,3,Good,84,Moderate,2,Good,153,Unhealthy
+Indonesia,Sibolga,35,Good,0,Good,14,Good,0,Good,35,Good
+Thailand,Sing Buri,32,Good,0,Good,26,Good,0,Good,32,Good
+Thailand,Non Sung,50,Good,1,Good,28,Good,0,Good,50,Good
+Indonesia,Sumbawa,25,Good,1,Good,25,Good,0,Good,21,Good
+Indonesia,Klangenan,67,Moderate,1,Good,38,Good,1,Good,67,Moderate
+Myanmar,Kanbe,58,Moderate,0,Good,23,Good,0,Good,58,Moderate
+Thailand,Kathu,40,Good,0,Good,23,Good,0,Good,40,Good
+Indonesia,Kebonarum,65,Moderate,1,Good,32,Good,1,Good,65,Moderate
+Indonesia,Kebumen,61,Moderate,1,Good,34,Good,0,Good,61,Moderate
+Malaysia,Jerantut,48,Good,1,Good,31,Good,0,Good,48,Good
+Philippines,Jolo,30,Good,1,Good,15,Good,0,Good,30,Good
+Philippines,Titay,100,Unhealthy for Sensitive Groups,1,Good,17,Good,0,Good,100,Unhealthy for Sensitive Groups
+Thailand,Si Sa Ket,54,Moderate,0,Good,28,Good,0,Good,54,Moderate
+Indonesia,Sidoarjo,153,Unhealthy,2,Good,58,Moderate,2,Good,153,Unhealthy
+Malaysia,Semporna,15,Good,1,Good,14,Good,0,Good,15,Good
+Cambodia,Svay Rieng,53,Moderate,1,Good,26,Good,0,Good,53,Moderate
+Philippines,Guiuan,52,Moderate,1,Good,19,Good,0,Good,52,Moderate
+Vietnam,Hanoi,181,Unhealthy,4,Good,181,Unhealthy,1,Good,145,Unhealthy for Sensitive Groups
+Thailand,Hat Yai,61,Moderate,1,Good,23,Good,0,Good,61,Moderate
+Indonesia,Kaliwungu,113,Unhealthy for Sensitive Groups,3,Good,100,Unhealthy for Sensitive Groups,2,Good,113,Unhealthy for Sensitive Groups
+Indonesia,Genteng,41,Good,1,Good,25,Good,0,Good,41,Good
+Indonesia,Gatak,79,Moderate,2,Good,45,Good,1,Good,79,Moderate
+Thailand,Chanthaburi,34,Good,0,Good,20,Good,0,Good,34,Good
+Indonesia,Cileungsi,146,Unhealthy for Sensitive Groups,3,Good,142,Unhealthy for Sensitive Groups,2,Good,146,Unhealthy for Sensitive Groups
+Indonesia,Ciranjang,109,Unhealthy for Sensitive Groups,2,Good,87,Moderate,1,Good,109,Unhealthy for Sensitive Groups
+Malaysia,Buloh Kasap,68,Moderate,1,Good,40,Good,0,Good,68,Moderate
+Philippines,Bustos,71,Moderate,1,Good,23,Good,1,Good,71,Moderate
+Philippines,Bambang,53,Moderate,1,Good,26,Good,0,Good,53,Moderate
+Indonesia,Banjarmasin,42,Good,1,Good,20,Good,0,Good,42,Good
+Philippines,Barra,52,Moderate,1,Good,27,Good,1,Good,52,Moderate
+Philippines,Iba,111,Unhealthy for Sensitive Groups,1,Good,24,Good,2,Good,111,Unhealthy for Sensitive Groups
+Malaysia,Kangar,105,Unhealthy for Sensitive Groups,2,Good,13,Good,8,Good,105,Unhealthy for Sensitive Groups
+Philippines,Kawit,74,Moderate,1,Good,28,Good,4,Good,74,Moderate
+Philippines,San Jacinto,89,Moderate,1,Good,27,Good,6,Good,89,Moderate
+Philippines,San Miguel,153,Unhealthy,3,Good,19,Good,9,Good,153,Unhealthy
+Philippines,Oroquieta,93,Moderate,1,Good,18,Good,0,Good,93,Moderate
+Indonesia,Pacet,98,Moderate,2,Good,84,Moderate,1,Good,98,Moderate
+Indonesia,Wonosobo,81,Moderate,2,Good,48,Good,0,Good,81,Moderate
+Indonesia,Weleri,81,Moderate,2,Good,58,Moderate,0,Good,81,Moderate
+Thailand,Wapi Pathum,58,Moderate,0,Good,29,Good,0,Good,58,Moderate
+Indonesia,Martapura,28,Good,1,Good,20,Good,0,Good,28,Good
+Malaysia,Melaka,61,Moderate,1,Good,31,Good,0,Good,61,Moderate
+Myanmar,Myingyan,27,Good,0,Good,27,Good,0,Good,20,Good
+Thailand,Nong Kung Si,57,Moderate,0,Good,27,Good,0,Good,57,Moderate
+Philippines,Trento,58,Moderate,1,Good,20,Good,0,Good,58,Moderate
+Thailand,U Thong,32,Good,0,Good,21,Good,0,Good,32,Good
+Indonesia,Surabaya,152,Unhealthy,1,Good,45,Good,1,Good,152,Unhealthy
+Philippines,Tagbilaran,98,Moderate,1,Good,17,Good,0,Good,98,Moderate
+Thailand,Klaeng,56,Moderate,0,Good,25,Good,1,Good,56,Moderate
+Philippines,Malvar,53,Moderate,0,Good,23,Good,1,Good,53,Moderate
+Philippines,Mangaldan,51,Moderate,0,Good,24,Good,1,Good,51,Moderate
+Philippines,Marawi,45,Good,1,Good,19,Good,0,Good,45,Good
+Thailand,Lom Sak,34,Good,0,Good,25,Good,0,Good,34,Good
+Thailand,Kaeng Khoi,57,Moderate,1,Good,30,Good,1,Good,57,Moderate
+Indonesia,Bojonegoro,104,Unhealthy for Sensitive Groups,2,Good,49,Good,0,Good,104,Unhealthy for Sensitive Groups
+Indonesia,Bone,17,Good,0,Good,17,Good,0,Good,14,Good
+Philippines,Bontoc,26,Good,0,Good,26,Good,0,Good,22,Good
+Thailand,Huai Yot,54,Moderate,1,Good,32,Good,0,Good,54,Moderate
+Indonesia,Gresik,115,Unhealthy for Sensitive Groups,1,Good,43,Good,1,Good,115,Unhealthy for Sensitive Groups
+Vietnam,Ha Giang,58,Moderate,2,Good,30,Good,0,Good,58,Moderate
+Indonesia,Sijunjung,42,Good,1,Good,20,Good,0,Good,42,Good
+Indonesia,Sleman,63,Moderate,1,Good,34,Good,1,Good,63,Moderate
+Malaysia,Kampar,60,Moderate,1,Good,43,Good,1,Good,60,Moderate
+Malaysia,Kluang,80,Moderate,1,Good,38,Good,0,Good,80,Moderate
+Philippines,Tagoloan,54,Moderate,1,Good,18,Good,4,Good,54,Moderate
+Philippines,Tagum,91,Moderate,2,Good,6,Good,4,Good,91,Moderate
+Indonesia,Talang,161,Unhealthy,7,Good,18,Good,15,Good,161,Unhealthy
+Philippines,Mapandan,97,Moderate,2,Good,27,Good,6,Good,97,Moderate
+Indonesia,Lebaksiu,86,Moderate,2,Good,76,Moderate,1,Good,86,Moderate
+Philippines,Ma Ao,36,Good,1,Good,18,Good,0,Good,36,Good
+Malaysia,Kuala Lumpur,76,Moderate,2,Good,41,Good,2,Good,76,Moderate
+Thailand,Kut Chap,45,Good,1,Good,28,Good,0,Good,45,Good
+Indonesia,Manado,30,Good,0,Good,16,Good,0,Good,30,Good
+Philippines,Mansalay,24,Good,0,Good,24,Good,0,Good,22,Good
+Vietnam,Bac Ninh,87,Moderate,3,Good,82,Moderate,2,Good,87,Moderate
+Thailand,Det Udom,54,Moderate,1,Good,29,Good,0,Good,54,Moderate
+Vietnam,Viet Tri,80,Moderate,2,Good,56,Moderate,2,Good,80,Moderate
+Thailand,Trat,28,Good,0,Good,17,Good,0,Good,28,Good
+Philippines,San Pedro,56,Moderate,1,Good,25,Good,2,Good,56,Moderate
+Indonesia,Salatiga,83,Moderate,2,Good,49,Good,1,Good,83,Moderate
+Indonesia,Sepatan,205,Very Unhealthy,5,Good,205,Very Unhealthy,4,Good,163,Unhealthy
+Indonesia,Pamulang,201,Very Unhealthy,5,Good,201,Very Unhealthy,4,Good,161,Unhealthy
+Indonesia,Pandaan,154,Unhealthy,3,Good,112,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+Indonesia,Parung,171,Unhealthy,4,Good,171,Unhealthy,2,Good,150,Unhealthy
+Thailand,Ban Bung,43,Good,0,Good,16,Good,2,Good,43,Good
+Indonesia,Banjar,75,Moderate,1,Good,46,Good,0,Good,75,Moderate
+Indonesia,Bogor,170,Unhealthy,4,Good,170,Unhealthy,2,Good,152,Unhealthy
+Philippines,New Visayas,39,Good,1,Good,19,Good,0,Good,39,Good
+Malaysia,Nibong Tebal,66,Moderate,1,Good,47,Good,0,Good,66,Moderate
+Thailand,Nong Chik,57,Moderate,1,Good,32,Good,0,Good,57,Moderate
+Thailand,Nonthaburi,63,Moderate,1,Good,25,Good,1,Good,63,Moderate
+Philippines,Norala,30,Good,1,Good,17,Good,0,Good,30,Good
+Indonesia,Muntilan,71,Moderate,1,Good,37,Good,1,Good,71,Moderate
+Indonesia,Ciparay,91,Moderate,2,Good,52,Moderate,1,Good,91,Moderate
+Malaysia,Bandar Maharani,75,Moderate,1,Good,31,Good,0,Good,75,Moderate
+Thailand,Bang Kruai,59,Moderate,1,Good,23,Good,1,Good,59,Moderate
+Thailand,Bang Len,45,Good,1,Good,26,Good,1,Good,45,Good
+Malaysia,Beaufort,63,Moderate,6,Good,36,Good,0,Good,63,Moderate
+Philippines,Buenlag,58,Moderate,0,Good,23,Good,1,Good,58,Moderate
+Vietnam,Ca Mau,50,Good,1,Good,33,Good,0,Good,50,Good
+Philippines,Cabayangan,30,Good,0,Good,15,Good,0,Good,30,Good
+Philippines,Cadiz,54,Moderate,1,Good,23,Good,0,Good,54,Moderate
+Indonesia,Tegal,149,Unhealthy for Sensitive Groups,4,Good,25,Good,9,Good,149,Unhealthy for Sensitive Groups
+Indonesia,Tuban,61,Moderate,1,Good,15,Good,3,Good,61,Moderate
+Indonesia,Gebog,161,Unhealthy,5,Good,2,Good,22,Good,161,Unhealthy
+Philippines,Dalipuga,61,Moderate,1,Good,17,Good,3,Good,61,Moderate
+Thailand,Pong,56,Moderate,1,Good,14,Good,2,Good,56,Moderate
+Indonesia,Pamanukan,156,Unhealthy,3,Good,22,Good,9,Good,156,Unhealthy
+Thailand,Phayuha Khiri,57,Moderate,1,Good,17,Good,2,Good,57,Moderate
+Myanmar,Maymyo,69,Moderate,2,Good,4,Good,2,Good,69,Moderate
+Indonesia,Merauke,34,Good,0,Good,21,Good,0,Good,34,Good
+Indonesia,Karanganom,57,Moderate,1,Good,32,Good,0,Good,57,Moderate
+Vietnam,Kon Tum,59,Moderate,1,Good,8,Good,3,Good,59,Moderate
+Malaysia,Kuala Lipis,70,Moderate,2,Good,10,Good,3,Good,70,Moderate
+Myanmar,Kyaukse,66,Moderate,1,Good,6,Good,3,Good,66,Moderate
+Philippines,Libog,61,Moderate,1,Good,22,Good,1,Good,61,Moderate
+Philippines,Saug,31,Good,0,Good,15,Good,0,Good,31,Good
+Philippines,Sangali,104,Unhealthy for Sensitive Groups,0,Good,14,Good,0,Good,104,Unhealthy for Sensitive Groups
+Thailand,Bang Pakong,113,Unhealthy for Sensitive Groups,3,Good,7,Good,9,Good,113,Unhealthy for Sensitive Groups
+Thailand,Bang Yai,164,Unhealthy,5,Good,4,Good,13,Good,164,Unhealthy
+Indonesia,Bekasi,193,Unhealthy,9,Good,16,Good,29,Good,193,Unhealthy
+Indonesia,Ciledug,166,Unhealthy,7,Good,11,Good,19,Good,166,Unhealthy
+Philippines,Tayug,89,Moderate,1,Good,29,Good,1,Good,89,Moderate
+Indonesia,Ubud,35,Good,1,Good,26,Good,0,Good,35,Good
+Indonesia,Sunggal,76,Moderate,2,Good,41,Good,0,Good,76,Moderate
+Philippines,Ormoc,62,Moderate,1,Good,22,Good,0,Good,62,Moderate
+Indonesia,Praya,51,Moderate,1,Good,25,Good,0,Good,51,Moderate
+Philippines,Pagadian,44,Good,1,Good,18,Good,1,Good,44,Good
+Philippines,Malabanban,72,Moderate,1,Good,27,Good,6,Good,72,Moderate
+Indonesia,Curug,281,Very Unhealthy,15,Good,6,Good,59,Moderate,281,Very Unhealthy
+Thailand,Phon,93,Moderate,2,Good,14,Good,5,Good,93,Moderate
+Philippines,Pili,72,Moderate,1,Good,20,Good,1,Good,72,Moderate
+Myanmar,Pyay,31,Good,1,Good,18,Good,0,Good,31,Good
+Indonesia,Pandegelang,195,Unhealthy,8,Good,17,Good,51,Moderate,195,Unhealthy
+Philippines,Perrelos,61,Moderate,1,Good,29,Good,2,Good,61,Moderate
+Indonesia,Peterongan,158,Unhealthy,3,Good,11,Good,9,Good,158,Unhealthy
+Thailand,Phanom Sarakham,108,Unhealthy for Sensitive Groups,3,Good,1,Good,13,Good,108,Unhealthy for Sensitive Groups
+Philippines,Baliuag,65,Moderate,1,Good,25,Good,2,Good,65,Moderate
+Philippines,Bangar,30,Good,1,Good,30,Good,0,Good,19,Good
+Indonesia,Bangkalan,154,Unhealthy,2,Good,79,Moderate,1,Good,154,Unhealthy
+Philippines,Bacolod,38,Good,1,Good,19,Good,0,Good,38,Good
+Malaysia,Simpang Empat,57,Moderate,1,Good,47,Good,0,Good,57,Moderate
+Thailand,Sung Noen,35,Good,0,Good,24,Good,0,Good,35,Good
+Malaysia,Sungai Siput Utara,57,Moderate,1,Good,42,Good,1,Good,57,Moderate
+Thailand,Khon Buri,52,Moderate,0,Good,28,Good,0,Good,52,Moderate
+Thailand,Ko Samui,45,Good,1,Good,24,Good,0,Good,45,Good
+Indonesia,Kudus,69,Moderate,2,Good,67,Moderate,1,Good,69,Moderate
+Indonesia,Majalengka,50,Good,1,Good,31,Good,1,Good,50,Good
+Philippines,Malolos,63,Moderate,1,Good,24,Good,1,Good,63,Moderate
+Indonesia,Diwek,154,Unhealthy,3,Good,126,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+Indonesia,Dukuhturi,77,Moderate,1,Good,39,Good,0,Good,77,Moderate
+Indonesia,Gedangan,153,Unhealthy,2,Good,54,Moderate,2,Good,153,Unhealthy
+Indonesia,Mlati,49,Good,1,Good,28,Good,0,Good,49,Good
+Thailand,Nakhon Luang,48,Good,0,Good,29,Good,0,Good,48,Good
+Philippines,Talisay,52,Moderate,1,Good,23,Good,0,Good,52,Moderate
+Vietnam,Tam Ky,57,Moderate,1,Good,37,Good,0,Good,57,Moderate
+Thailand,Uttaradit,66,Moderate,0,Good,22,Good,0,Good,66,Moderate
+Thailand,Yasothon,58,Moderate,0,Good,31,Good,0,Good,58,Moderate
+Thailand,Wang Noi,60,Moderate,1,Good,30,Good,1,Good,60,Moderate
+Thailand,Nam Som,44,Good,0,Good,22,Good,0,Good,44,Good
+Philippines,General Emilio Aguinaldo,48,Good,0,Good,24,Good,0,Good,48,Good
+Philippines,Eustaquio Lopez,62,Moderate,1,Good,18,Good,0,Good,62,Moderate
+Malaysia,Ayer Itam,54,Moderate,1,Good,47,Good,0,Good,54,Moderate
+Philippines,Bagabag,46,Good,1,Good,24,Good,0,Good,46,Good
+Thailand,Ban Phaeo,54,Moderate,0,Good,21,Good,0,Good,54,Moderate
+Thailand,Bang Bo,67,Moderate,1,Good,24,Good,1,Good,67,Moderate
+Malaysia,Batu Arang,58,Moderate,1,Good,41,Good,1,Good,58,Moderate
+Philippines,Botolan,70,Moderate,0,Good,25,Good,0,Good,70,Moderate
+Philippines,Butuan,54,Moderate,1,Good,19,Good,0,Good,54,Moderate
+Philippines,Calatagan,50,Good,0,Good,23,Good,0,Good,50,Good
+Vietnam,Da Lat,44,Good,0,Good,19,Good,0,Good,44,Good
+Thailand,Ang Thong,47,Good,0,Good,23,Good,0,Good,47,Good
+Thailand,Ao Luk,33,Good,0,Good,19,Good,0,Good,33,Good
+Indonesia,Sindang,69,Moderate,1,Good,41,Good,0,Good,69,Moderate
+Cambodia,Sisophon,39,Good,0,Good,25,Good,0,Good,39,Good
+Thailand,Sattahip,34,Good,0,Good,17,Good,0,Good,34,Good
+Indonesia,Simpang,77,Moderate,2,Good,10,Good,2,Good,77,Moderate
+Myanmar,Toungoo,23,Good,1,Good,14,Good,0,Good,23,Good
+Philippines,Tukuran,44,Good,1,Good,17,Good,1,Good,44,Good
+Indonesia,Tulungagung,165,Unhealthy,6,Good,13,Good,14,Good,165,Unhealthy
+Indonesia,Seyegan,168,Unhealthy,7,Good,12,Good,20,Good,168,Unhealthy
+Philippines,Mawab,89,Moderate,2,Good,4,Good,4,Good,89,Moderate
+Philippines,Meycauayan,152,Unhealthy,4,Good,22,Good,9,Good,152,Unhealthy
+Indonesia,Mranggen,161,Unhealthy,6,Good,19,Good,15,Good,161,Unhealthy
+Philippines,Nagcarlan,86,Moderate,2,Good,24,Good,8,Good,86,Moderate
+Thailand,Narathiwat,84,Moderate,3,Good,20,Good,2,Good,84,Moderate
+Philippines,Dao,64,Moderate,1,Good,28,Good,2,Good,64,Moderate
+Indonesia,Wonosari,174,Unhealthy,7,Good,7,Good,20,Good,174,Unhealthy
+Indonesia,Atambua,28,Good,1,Good,22,Good,0,Good,28,Good
+Malaysia,Ayer Molek,72,Moderate,1,Good,31,Good,0,Good,72,Moderate
+Philippines,Baguio,28,Good,0,Good,25,Good,1,Good,28,Good
+Philippines,Calbayog,36,Good,1,Good,22,Good,0,Good,36,Good
+Indonesia,Cirebon,71,Moderate,2,Good,53,Moderate,0,Good,71,Moderate
+Malaysia,Cukai,93,Moderate,1,Good,38,Good,0,Good,93,Moderate
+Indonesia,Deli Tua,68,Moderate,2,Good,41,Good,0,Good,68,Moderate
+Vietnam,Bien Hoa,83,Moderate,2,Good,40,Good,2,Good,83,Moderate
+Thailand,Yala,53,Moderate,1,Good,35,Good,0,Good,53,Moderate
+Indonesia,Jombang,113,Unhealthy for Sensitive Groups,2,Good,84,Moderate,1,Good,113,Unhealthy for Sensitive Groups
+Philippines,Nibaliw,58,Moderate,1,Good,26,Good,2,Good,58,Moderate
+Thailand,Sam Chuk,23,Good,0,Good,23,Good,0,Good,23,Good
+Thailand,Samut Prakan,62,Moderate,1,Good,21,Good,1,Good,62,Moderate
+Thailand,Samut Songkhram,29,Good,0,Good,21,Good,0,Good,29,Good
+Thailand,Pak Thong Chai,42,Good,0,Good,26,Good,0,Good,42,Good
+Philippines,Pakil,51,Moderate,1,Good,23,Good,1,Good,51,Moderate
+Malaysia,Papar,72,Moderate,7,Good,45,Good,0,Good,72,Moderate
+Malaysia,Parit Buntar,79,Moderate,2,Good,60,Moderate,0,Good,79,Moderate
+Philippines,Recodo,77,Moderate,0,Good,13,Good,0,Good,77,Moderate
+Thailand,Rong Kwang,53,Moderate,1,Good,24,Good,0,Good,53,Moderate
+Indonesia,Tebingtinggi,84,Moderate,2,Good,45,Good,0,Good,84,Moderate
+Indonesia,Wedi,64,Moderate,1,Good,37,Good,1,Good,64,Moderate
+Malaysia,Kuala Sungai Baru,65,Moderate,2,Good,31,Good,0,Good,65,Moderate
+Philippines,La Carlota,36,Good,1,Good,18,Good,0,Good,36,Good
+Philippines,Laguilayan,35,Good,1,Good,23,Good,0,Good,35,Good
+Myanmar,Lashio,21,Good,1,Good,21,Good,0,Good,12,Good
+Philippines,Mahayag,23,Good,1,Good,15,Good,0,Good,23,Good
+Indonesia,Majene,43,Good,1,Good,21,Good,0,Good,43,Good
+Philippines,Malilipot,49,Good,1,Good,25,Good,0,Good,49,Good
+Thailand,Khlung,37,Good,0,Good,17,Good,0,Good,37,Good
+Malaysia,Tangkak,107,Unhealthy for Sensitive Groups,2,Good,17,Good,8,Good,107,Unhealthy for Sensitive Groups
+Cambodia,Kampong Cham,35,Good,0,Good,19,Good,0,Good,35,Good
+Myanmar,Katha,19,Good,1,Good,19,Good,0,Good,18,Good
+Indonesia,Kebomas,158,Unhealthy,2,Good,104,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+Indonesia,Medan,101,Unhealthy for Sensitive Groups,2,Good,54,Moderate,1,Good,101,Unhealthy for Sensitive Groups
+Thailand,Chai Badan,48,Good,0,Good,30,Good,0,Good,48,Good
+Thailand,Chaiyaphum,48,Good,0,Good,28,Good,0,Good,48,Good
+Indonesia,Belawan,75,Moderate,2,Good,45,Good,0,Good,75,Moderate
+Malaysia,Bukit Rambai,77,Moderate,2,Good,35,Good,0,Good,77,Moderate
+Philippines,Cabagan,46,Good,1,Good,37,Good,0,Good,46,Good
+Philippines,Cabinuangan,38,Good,1,Good,15,Good,0,Good,38,Good
+Philippines,Cagsiay,46,Good,1,Good,30,Good,0,Good,46,Good
+Philippines,Cainta,65,Moderate,1,Good,23,Good,1,Good,65,Moderate
+Thailand,Ban Mo,50,Good,0,Good,28,Good,0,Good,50,Good
+Philippines,Bani,52,Moderate,0,Good,26,Good,0,Good,52,Moderate
+Philippines,Anuling,59,Moderate,1,Good,13,Good,0,Good,59,Moderate
+Malaysia,Ayer Tawar,88,Moderate,2,Good,66,Moderate,1,Good,88,Moderate
+Philippines,Sibulan,90,Moderate,1,Good,15,Good,0,Good,90,Moderate
+Indonesia,Singojuruh,39,Good,1,Good,25,Good,0,Good,39,Good
+Philippines,Binangonan,52,Moderate,1,Good,25,Good,1,Good,52,Moderate
+Vietnam,Rach Gia,57,Moderate,1,Good,31,Good,1,Good,57,Moderate
+Philippines,Ramos,141,Unhealthy for Sensitive Groups,1,Good,32,Good,1,Good,141,Unhealthy for Sensitive Groups
+Thailand,Sakhon Nakhon,50,Good,0,Good,29,Good,0,Good,50,Good
+Thailand,Nakhon Thai,69,Moderate,0,Good,23,Good,0,Good,69,Moderate
+Philippines,Naval,60,Moderate,1,Good,28,Good,0,Good,60,Moderate
+Philippines,New Corella,61,Moderate,1,Good,19,Good,0,Good,61,Moderate
+Malaysia,Nilai,67,Moderate,1,Good,39,Good,1,Good,67,Moderate
+Philippines,Minglanilla,65,Moderate,1,Good,22,Good,0,Good,65,Moderate
+Philippines,Mandaue,66,Moderate,1,Good,23,Good,0,Good,66,Moderate
+Thailand,Kosum Phisai,54,Moderate,0,Good,29,Good,0,Good,54,Moderate
+Malaysia,Kuala Terengganu,75,Moderate,1,Good,40,Good,0,Good,75,Moderate
+Thailand,Kamalasai,60,Moderate,0,Good,28,Good,0,Good,60,Moderate
+Philippines,Ramon,47,Good,1,Good,27,Good,0,Good,47,Good
+Thailand,Phun Phin,34,Good,0,Good,18,Good,0,Good,34,Good
+Philippines,Pio,70,Moderate,1,Good,23,Good,1,Good,70,Moderate
+Myanmar,Pyinmana,25,Good,0,Good,22,Good,0,Good,25,Good
+Indonesia,Purworejo,92,Moderate,2,Good,42,Good,2,Good,92,Moderate
+Indonesia,Bumiayu,73,Moderate,1,Good,37,Good,1,Good,73,Moderate
+Indonesia,Banyumas,62,Moderate,1,Good,36,Good,0,Good,62,Moderate
+Indonesia,Baturaden,69,Moderate,1,Good,35,Good,1,Good,69,Moderate
+Thailand,Khlong Luang,73,Moderate,1,Good,27,Good,2,Good,73,Moderate
+Indonesia,Karangsembung,73,Moderate,1,Good,41,Good,0,Good,73,Moderate
+Indonesia,Gombong,63,Moderate,1,Good,37,Good,0,Good,63,Moderate
+Vietnam,Ha Tinh,38,Good,1,Good,28,Good,0,Good,38,Good
+Indonesia,Singosari,72,Moderate,1,Good,36,Good,1,Good,72,Moderate
+Thailand,Mae Tha,22,Good,0,Good,22,Good,0,Good,21,Good
+Thailand,Nang Rong,39,Good,0,Good,26,Good,0,Good,39,Good
+Indonesia,Mojosari,135,Unhealthy for Sensitive Groups,2,Good,62,Moderate,1,Good,135,Unhealthy for Sensitive Groups
+Philippines,Molave,38,Good,0,Good,14,Good,0,Good,38,Good
+Indonesia,Jaten,168,Unhealthy,6,Good,8,Good,18,Good,168,Unhealthy
+Malaysia,Jitra,134,Unhealthy for Sensitive Groups,3,Good,17,Good,9,Good,134,Unhealthy for Sensitive Groups
+Indonesia,Kendari,56,Moderate,1,Good,18,Good,0,Good,56,Moderate
+Thailand,Amnat Charoen,46,Good,1,Good,27,Good,0,Good,46,Good
+Philippines,Abucay,47,Good,1,Good,27,Good,1,Good,47,Good
+Philippines,Aguisan,50,Good,1,Good,17,Good,0,Good,50,Good
+Thailand,Phayao,34,Good,0,Good,26,Good,0,Good,34,Good
+Thailand,Phon Thong,47,Good,0,Good,30,Good,0,Good,47,Good
+Vietnam,Play Cu,39,Good,1,Good,21,Good,0,Good,39,Good
+Indonesia,Polewali,30,Good,1,Good,16,Good,0,Good,30,Good
+Malaysia,Ipoh,69,Moderate,1,Good,38,Good,0,Good,69,Moderate
+Philippines,Kabankalan,81,Moderate,1,Good,16,Good,0,Good,81,Moderate
+Malaysia,Kepala Batas,76,Moderate,1,Good,56,Moderate,0,Good,76,Moderate
+Philippines,Olongapo,66,Moderate,0,Good,25,Good,0,Good,66,Moderate
+Indonesia,Padang,57,Moderate,2,Good,32,Good,0,Good,57,Moderate
+Philippines,Penaranda,78,Moderate,1,Good,25,Good,1,Good,78,Moderate
+Thailand,Phetchabun,44,Good,0,Good,21,Good,0,Good,44,Good
+Thailand,Huai Mek,44,Good,0,Good,28,Good,0,Good,44,Good
+Philippines,Dadiangas,54,Moderate,0,Good,17,Good,0,Good,54,Moderate
+Philippines,Hagonoy,52,Moderate,1,Good,27,Good,0,Good,52,Moderate
+Philippines,Dologon,65,Moderate,1,Good,20,Good,0,Good,65,Moderate
+Indonesia,Citeureup,172,Unhealthy,4,Good,172,Unhealthy,2,Good,148,Unhealthy for Sensitive Groups
+Vietnam,Vinh Yen,82,Moderate,2,Good,56,Moderate,2,Good,82,Moderate
+Vietnam,Lang Son,58,Moderate,2,Good,47,Good,0,Good,58,Moderate
+Philippines,Luna,54,Moderate,1,Good,23,Good,0,Good,54,Moderate
+Philippines,Mabitac,57,Moderate,1,Good,26,Good,1,Good,57,Moderate
+Philippines,Mamatid,54,Moderate,1,Good,24,Good,1,Good,54,Moderate
+Malaysia,Jenjarom,55,Moderate,1,Good,31,Good,1,Good,55,Moderate
+Thailand,Kui Buri,34,Good,0,Good,16,Good,0,Good,34,Good
+Thailand,Non Thai,51,Moderate,0,Good,26,Good,0,Good,51,Moderate
+Thailand,Thap Than,21,Good,0,Good,21,Good,0,Good,19,Good
+Indonesia,Trenggalek,39,Good,1,Good,25,Good,0,Good,39,Good
+Philippines,Tagas,53,Moderate,1,Good,24,Good,0,Good,53,Moderate
+Philippines,Tanza,63,Moderate,1,Good,23,Good,1,Good,63,Moderate
+Philippines,Sorsogon,47,Good,1,Good,26,Good,0,Good,47,Good
+Philippines,Halapitan,47,Good,1,Good,20,Good,0,Good,47,Good
+Philippines,President Roxas,63,Moderate,1,Good,26,Good,0,Good,63,Moderate
+Philippines,Rajal,90,Moderate,1,Good,27,Good,1,Good,90,Moderate
+Thailand,Sansai,21,Good,0,Good,21,Good,0,Good,16,Good
+Malaysia,Shah Alam,78,Moderate,2,Good,43,Good,2,Good,78,Moderate
+Indonesia,Pangkalanbuun,28,Good,0,Good,15,Good,0,Good,28,Good
+Thailand,Plaeng Yao,48,Good,0,Good,25,Good,0,Good,48,Good
+Thailand,Song Phi Nong,35,Good,0,Good,22,Good,0,Good,35,Good
+Indonesia,Banjaran,195,Unhealthy,10,Good,10,Good,27,Good,195,Unhealthy
+Philippines,Cardona,120,Unhealthy for Sensitive Groups,2,Good,30,Good,6,Good,120,Unhealthy for Sensitive Groups
+Thailand,Chok Chai,72,Moderate,2,Good,22,Good,3,Good,72,Moderate
+Thailand,Wiset Chai Chan,103,Unhealthy for Sensitive Groups,2,Good,11,Good,8,Good,103,Unhealthy for Sensitive Groups
+Vietnam,Bac Can,55,Moderate,2,Good,36,Good,0,Good,55,Moderate
+Myanmar,Bago,49,Good,0,Good,22,Good,0,Good,49,Good
+Malaysia,Banting,89,Moderate,1,Good,36,Good,1,Good,89,Moderate
+Philippines,Barotac Nuevo,47,Good,1,Good,22,Good,0,Good,47,Good
+Philippines,Bato,57,Moderate,1,Good,26,Good,0,Good,57,Moderate
+Philippines,Bay,53,Moderate,1,Good,23,Good,1,Good,53,Moderate
+Philippines,Carranglan,60,Moderate,1,Good,25,Good,1,Good,60,Moderate
+Philippines,Bagting,97,Moderate,1,Good,32,Good,1,Good,97,Moderate
+Indonesia,Ciamis,60,Moderate,1,Good,36,Good,0,Good,60,Moderate
+Indonesia,Ciawi,195,Unhealthy,4,Good,195,Unhealthy,3,Good,155,Unhealthy
+Indonesia,Cilegon,182,Unhealthy,3,Good,182,Unhealthy,3,Good,145,Unhealthy for Sensitive Groups
+Philippines,Abuyog,45,Good,1,Good,21,Good,0,Good,45,Good
+Thailand,Na Klang,74,Moderate,2,Good,12,Good,4,Good,74,Moderate
+Philippines,Naga,72,Moderate,1,Good,20,Good,1,Good,72,Moderate
+Myanmar,Taunggyi,39,Good,1,Good,9,Good,1,Good,39,Good
+Indonesia,Godean,162,Unhealthy,6,Good,14,Good,17,Good,162,Unhealthy
+Vietnam,Hai Phong,160,Unhealthy,9,Good,17,Good,15,Good,160,Unhealthy
+Philippines,Halayhay,60,Moderate,1,Good,26,Good,3,Good,60,Moderate
+Vietnam,Hoa Binh,163,Unhealthy,9,Good,2,Good,19,Good,163,Unhealthy
+Indonesia,Jepara,132,Unhealthy for Sensitive Groups,3,Good,9,Good,14,Good,132,Unhealthy for Sensitive Groups
+Indonesia,Kadungora,212,Very Unhealthy,12,Good,2,Good,32,Good,212,Very Unhealthy
+Indonesia,Ketanggungan,161,Unhealthy,7,Good,17,Good,16,Good,161,Unhealthy
+Philippines,Daet,41,Good,1,Good,27,Good,0,Good,41,Good
+Philippines,Dagupan,53,Moderate,0,Good,24,Good,1,Good,53,Moderate
+Philippines,Buanoy,68,Moderate,1,Good,20,Good,0,Good,68,Moderate
+Myanmar,Banmo,19,Good,1,Good,18,Good,0,Good,19,Good
+Thailand,Wichian Buri,41,Good,0,Good,22,Good,0,Good,41,Good
+Myanmar,Yamethin,25,Good,0,Good,25,Good,0,Good,23,Good
+Indonesia,Yogyakarta,54,Moderate,1,Good,27,Good,0,Good,54,Moderate
+Philippines,Loma De Gato,68,Moderate,1,Good,25,Good,1,Good,68,Moderate
+Philippines,Sasmuan,66,Moderate,1,Good,24,Good,1,Good,66,Moderate
+Indonesia,Sampit,45,Good,1,Good,17,Good,0,Good,45,Good
+Thailand,Songkhla,54,Moderate,2,Good,41,Good,0,Good,54,Moderate
+Indonesia,Sragen,66,Moderate,1,Good,37,Good,0,Good,66,Moderate
+Vietnam,Hai Duong,77,Moderate,2,Good,53,Moderate,2,Good,77,Moderate
+Philippines,Pandacaqui,73,Moderate,1,Good,23,Good,1,Good,73,Moderate
+Indonesia,Pare,78,Moderate,1,Good,43,Good,0,Good,78,Moderate
+Indonesia,Pemalang,100,Unhealthy for Sensitive Groups,2,Good,51,Moderate,1,Good,100,Unhealthy for Sensitive Groups
+Thailand,Suphan Buri,45,Good,0,Good,20,Good,0,Good,45,Good
+Indonesia,Taman,124,Unhealthy for Sensitive Groups,1,Good,39,Good,1,Good,124,Unhealthy for Sensitive Groups
+Vietnam,Hoi An,82,Moderate,2,Good,32,Good,1,Good,82,Moderate
+Indonesia,Ende,23,Good,1,Good,23,Good,0,Good,16,Good
+Philippines,Lalig,90,Moderate,2,Good,25,Good,9,Good,90,Moderate
+Philippines,Lipa,93,Moderate,2,Good,25,Good,10,Good,93,Moderate
+Indonesia,Banda Aceh,17,Good,0,Good,17,Good,0,Good,17,Good
+Philippines,Antipolo,61,Moderate,1,Good,23,Good,2,Good,61,Moderate
+Philippines,Sapang,98,Moderate,1,Good,22,Good,2,Good,98,Moderate
+Philippines,Papaya,82,Moderate,1,Good,27,Good,1,Good,82,Moderate
+Indonesia,Plumbon,54,Moderate,1,Good,39,Good,0,Good,54,Moderate
+Indonesia,Gambiran,37,Good,1,Good,24,Good,0,Good,37,Good
+Indonesia,Gampengrejo,73,Moderate,1,Good,38,Good,0,Good,73,Moderate
+Indonesia,Gempol,158,Unhealthy,2,Good,73,Moderate,1,Good,158,Unhealthy
+Philippines,Ipil,157,Unhealthy,1,Good,15,Good,0,Good,157,Unhealthy
+Philippines,Masalukot,45,Good,1,Good,27,Good,1,Good,45,Good
+Malaysia,Mentakab,88,Moderate,1,Good,41,Good,0,Good,88,Moderate
+Myanmar,Mudon,50,Good,0,Good,21,Good,0,Good,50,Good
+Thailand,Nakhon Nayok,59,Moderate,1,Good,30,Good,1,Good,59,Moderate
+Thailand,Krabi,65,Moderate,1,Good,28,Good,0,Good,65,Moderate
+Indonesia,Loa Janan,54,Moderate,1,Good,15,Good,0,Good,54,Moderate
+Philippines,Los Banos,52,Moderate,1,Good,24,Good,1,Good,52,Moderate
+Indonesia,Manokwari,10,Good,0,Good,10,Good,0,Good,10,Good
+Philippines,Santa Catalina,78,Moderate,1,Good,16,Good,0,Good,78,Moderate
+Indonesia,Paseh,66,Moderate,1,Good,41,Good,0,Good,66,Moderate
+Indonesia,Singkang,34,Good,1,Good,19,Good,0,Good,34,Good
+Indonesia,Singkawang,61,Moderate,1,Good,14,Good,0,Good,61,Moderate
+Indonesia,Negara,67,Moderate,3,Good,21,Good,3,Good,67,Moderate
+Philippines,Paombong,103,Unhealthy for Sensitive Groups,3,Good,27,Good,7,Good,103,Unhealthy for Sensitive Groups
+Philippines,Ozamiz,49,Good,1,Good,18,Good,1,Good,49,Good
+Philippines,Pagsangahan,32,Good,0,Good,23,Good,0,Good,32,Good
+Indonesia,Panarukan,85,Moderate,3,Good,17,Good,4,Good,85,Moderate
+Philippines,Malanday,165,Unhealthy,5,Good,19,Good,12,Good,165,Unhealthy
+Thailand,Bang Ban,143,Unhealthy for Sensitive Groups,3,Good,7,Good,12,Good,143,Unhealthy for Sensitive Groups
+Malaysia,Bemban,101,Unhealthy for Sensitive Groups,2,Good,17,Good,7,Good,101,Unhealthy for Sensitive Groups
+Malaysia,Bukit Baru,93,Moderate,2,Good,20,Good,6,Good,93,Moderate
+Philippines,Cebu,51,Moderate,1,Good,26,Good,1,Good,51,Moderate
+Thailand,Chachoengsao,145,Unhealthy for Sensitive Groups,3,Good,3,Good,13,Good,145,Unhealthy for Sensitive Groups
+Thailand,Chaiyo,112,Unhealthy for Sensitive Groups,2,Good,12,Good,8,Good,112,Unhealthy for Sensitive Groups
+Thailand,Yaring,94,Moderate,1,Good,29,Good,0,Good,94,Moderate
+Indonesia,Babakan,54,Moderate,1,Good,34,Good,0,Good,54,Moderate
+Malaysia,Beranang,90,Moderate,2,Good,44,Good,1,Good,90,Moderate
+Thailand,Betong,51,Moderate,1,Good,32,Good,0,Good,51,Moderate
+Indonesia,Cileunyi,64,Moderate,1,Good,37,Good,1,Good,64,Moderate
+Philippines,Taytay,65,Moderate,1,Good,23,Good,1,Good,65,Moderate
+Indonesia,Tomohon,24,Good,1,Good,16,Good,0,Good,24,Good
+Philippines,Bunawan,54,Moderate,1,Good,18,Good,0,Good,54,Moderate
+Philippines,Codcod,58,Moderate,1,Good,23,Good,0,Good,58,Moderate
+Philippines,Aringay,59,Moderate,1,Good,24,Good,1,Good,59,Moderate
+Thailand,Bangkok,69,Moderate,1,Good,25,Good,1,Good,69,Moderate
+Indonesia,Bengkalis,38,Good,1,Good,19,Good,0,Good,38,Good
+Thailand,Chumphon,41,Good,0,Good,15,Good,0,Good,41,Good
+Indonesia,Cidahu,112,Unhealthy for Sensitive Groups,2,Good,88,Moderate,1,Good,112,Unhealthy for Sensitive Groups
+Thailand,Phra Phutthabat,112,Unhealthy for Sensitive Groups,2,Good,18,Good,7,Good,112,Unhealthy for Sensitive Groups
+Philippines,Pila,89,Moderate,2,Good,26,Good,7,Good,89,Moderate
+Philippines,Santa Ana,150,Unhealthy,2,Good,25,Good,8,Good,150,Unhealthy
+Thailand,Ron Phibun,119,Unhealthy for Sensitive Groups,3,Good,5,Good,4,Good,119,Unhealthy for Sensitive Groups
+Indonesia,Delanggu,208,Very Unhealthy,13,Good,3,Good,24,Good,208,Very Unhealthy
+Vietnam,Dong Xoai,88,Moderate,2,Good,13,Good,5,Good,88,Moderate
+Philippines,Siquijor,54,Moderate,1,Good,24,Good,0,Good,54,Moderate
+Indonesia,Srono,90,Moderate,3,Good,18,Good,4,Good,90,Moderate
+Philippines,Dumaguete,89,Moderate,1,Good,15,Good,0,Good,89,Moderate
+Philippines,Mariveles,42,Good,0,Good,27,Good,0,Good,42,Good
+Thailand,Mukdahan,61,Moderate,0,Good,30,Good,0,Good,61,Moderate
+Thailand,Nakhon Phanom,59,Moderate,0,Good,28,Good,0,Good,59,Moderate
+Philippines,Mambajao,112,Unhealthy for Sensitive Groups,1,Good,23,Good,0,Good,112,Unhealthy for Sensitive Groups
+Philippines,Katipunan,152,Unhealthy,1,Good,14,Good,0,Good,152,Unhealthy
+Indonesia,Kepanjen,41,Good,1,Good,26,Good,0,Good,41,Good
+Indonesia,Kawalu,58,Moderate,1,Good,34,Good,0,Good,58,Moderate
+Malaysia,Kota Belud,40,Good,1,Good,22,Good,0,Good,40,Good
+Myanmar,Pakokku,25,Good,0,Good,25,Good,0,Good,19,Good
+Laos,Pakxe,29,Good,0,Good,19,Good,0,Good,29,Good
+Thailand,Khao Yoi,36,Good,0,Good,17,Good,0,Good,36,Good
+Thailand,Satuk,41,Good,0,Good,28,Good,0,Good,41,Good
+Laos,Savannakhet,51,Moderate,0,Good,29,Good,0,Good,51,Moderate
+Thailand,Tak,68,Moderate,0,Good,19,Good,0,Good,68,Moderate
+Indonesia,Tangerang,201,Very Unhealthy,5,Good,201,Very Unhealthy,3,Good,167,Unhealthy
+Philippines,Tangub,50,Good,0,Good,15,Good,0,Good,50,Good
+Philippines,Rizal,84,Moderate,1,Good,31,Good,1,Good,84,Moderate
+Thailand,Chaiya,59,Moderate,1,Good,23,Good,0,Good,59,Moderate
+Thailand,Ayutthaya,50,Good,0,Good,27,Good,0,Good,50,Good
+Indonesia,Bae,80,Moderate,2,Good,69,Moderate,1,Good,80,Moderate
+Philippines,Baganga,52,Moderate,1,Good,17,Good,0,Good,52,Moderate
+Philippines,Digos,60,Moderate,1,Good,20,Good,0,Good,60,Moderate
+Indonesia,Cisarua,144,Unhealthy for Sensitive Groups,3,Good,144,Unhealthy for Sensitive Groups,1,Good,115,Unhealthy for Sensitive Groups
+Indonesia,Wonogiri,51,Moderate,1,Good,28,Good,0,Good,51,Moderate
+Philippines,Tagbina,52,Moderate,1,Good,20,Good,0,Good,52,Moderate
+Thailand,Tha Rua,51,Moderate,0,Good,28,Good,0,Good,51,Moderate
+Myanmar,Thanatpin,59,Moderate,0,Good,23,Good,0,Good,59,Moderate
+Vietnam,Vinh Long,98,Moderate,1,Good,43,Good,1,Good,98,Moderate
+Thailand,Udon Thani,54,Moderate,0,Good,25,Good,0,Good,54,Moderate
+Indonesia,Gorontalo,25,Good,0,Good,15,Good,0,Good,25,Good
+Indonesia,Purbalingga,66,Moderate,1,Good,44,Good,1,Good,66,Moderate
+Indonesia,Ceper,67,Moderate,1,Good,38,Good,1,Good,67,Moderate
+Indonesia,Maumere,60,Moderate,1,Good,26,Good,0,Good,60,Moderate
+Philippines,Maramag,36,Good,1,Good,22,Good,0,Good,36,Good
+Philippines,Vigan,31,Good,1,Good,31,Good,0,Good,20,Good
+Thailand,Damnoen Saduak,42,Good,0,Good,21,Good,0,Good,42,Good
+Indonesia,Dampit,53,Moderate,1,Good,31,Good,0,Good,53,Moderate
+Indonesia,Bitung,28,Good,0,Good,15,Good,0,Good,28,Good
+Thailand,Pa Sang,22,Good,0,Good,22,Good,0,Good,17,Good
+Thailand,Pak Chong,45,Good,1,Good,26,Good,0,Good,45,Good
+Philippines,Pandi,62,Moderate,1,Good,25,Good,2,Good,62,Moderate
+Indonesia,Pekalongan,123,Unhealthy for Sensitive Groups,4,Good,123,Unhealthy for Sensitive Groups,1,Good,123,Unhealthy for Sensitive Groups
+Indonesia,Pemangkat,39,Good,1,Good,16,Good,0,Good,39,Good
+Thailand,Phimai,43,Good,0,Good,25,Good,0,Good,43,Good
+Indonesia,Babat,159,Unhealthy,3,Good,135,Unhealthy for Sensitive Groups,1,Good,159,Unhealthy
+Cambodia,Kracheh,50,Good,1,Good,27,Good,0,Good,50,Good
+Indonesia,Kresek,203,Very Unhealthy,4,Good,203,Very Unhealthy,4,Good,158,Unhealthy
+Philippines,Labangan,42,Good,0,Good,13,Good,0,Good,42,Good
+Thailand,Lamphun,21,Good,0,Good,21,Good,0,Good,17,Good
+Philippines,Natappian,42,Good,1,Good,35,Good,0,Good,42,Good
+Thailand,Huai Thalaeng,42,Good,1,Good,25,Good,0,Good,42,Good
+Vietnam,Nam Dinh,154,Unhealthy,4,Good,154,Unhealthy,1,Good,145,Unhealthy for Sensitive Groups
+Indonesia,Sewon,67,Moderate,1,Good,36,Good,1,Good,67,Moderate
+Thailand,Tha Mai,41,Good,0,Good,18,Good,0,Good,41,Good
+Thailand,Takhli,27,Good,0,Good,23,Good,0,Good,27,Good
+Malaysia,Tanjong Karang,69,Moderate,2,Good,45,Good,2,Good,69,Moderate
+Malaysia,Tanjong Sepat,73,Moderate,2,Good,30,Good,1,Good,73,Moderate
+Indonesia,Semarang,160,Unhealthy,5,Good,17,Good,17,Good,160,Unhealthy
+Indonesia,Rangkasbitung,225,Very Unhealthy,11,Good,9,Good,63,Moderate,225,Very Unhealthy
+Indonesia,Rantauprapat,97,Moderate,3,Good,2,Good,5,Good,97,Moderate
+Philippines,Santa Ignacia,151,Unhealthy,2,Good,25,Good,6,Good,151,Unhealthy
+Thailand,Bang Krathum,86,Moderate,2,Good,14,Good,4,Good,86,Moderate
+Indonesia,Buaran,152,Unhealthy,5,Good,27,Good,9,Good,152,Unhealthy
+Philippines,Calauan,92,Moderate,2,Good,26,Good,9,Good,92,Moderate
+Indonesia,Soreang,188,Unhealthy,10,Good,5,Good,27,Good,188,Unhealthy
+Indonesia,Grogol,170,Unhealthy,6,Good,7,Good,21,Good,170,Unhealthy
+Malaysia,Gua Musang,67,Moderate,2,Good,2,Good,2,Good,67,Moderate
+Philippines,Irosin,55,Moderate,1,Good,21,Good,0,Good,55,Moderate
+Thailand,Khao Wong,66,Moderate,2,Good,19,Good,2,Good,66,Moderate
+Indonesia,Pecangakan,150,Unhealthy,3,Good,10,Good,16,Good,150,Unhealthy
+Thailand,Bo Rai,40,Good,1,Good,15,Good,1,Good,40,Good
+Philippines,Bugo,53,Moderate,1,Good,18,Good,3,Good,53,Moderate
+Malaysia,Bukit Mertajam,150,Unhealthy,3,Good,24,Good,10,Good,150,Unhealthy
+Philippines,Buluangan,73,Moderate,1,Good,27,Good,2,Good,73,Moderate
+Vietnam,Can Tho,152,Unhealthy,3,Good,7,Good,11,Good,152,Unhealthy
+Indonesia,Dumai,70,Moderate,2,Good,16,Good,0,Good,70,Moderate
+Philippines,Manukan,36,Good,1,Good,21,Good,0,Good,36,Good
+Thailand,Khon Kaen,96,Moderate,2,Good,20,Good,4,Good,96,Moderate
+Malaysia,Kinarut,54,Moderate,2,Good,11,Good,4,Good,54,Moderate
+Indonesia,Lahat,109,Unhealthy for Sensitive Groups,4,Good,3,Good,6,Good,109,Unhealthy for Sensitive Groups
+Indonesia,Lhokseumawe,88,Moderate,2,Good,21,Good,2,Good,88,Moderate
+Malaysia,Seremban,140,Unhealthy for Sensitive Groups,3,Good,14,Good,12,Good,140,Unhealthy for Sensitive Groups
+Indonesia,Samarinda,57,Moderate,1,Good,7,Good,2,Good,57,Moderate
+Indonesia,Sampang,53,Moderate,1,Good,20,Good,0,Good,53,Moderate
+Philippines,San Luis,144,Unhealthy for Sensitive Groups,2,Good,26,Good,8,Good,144,Unhealthy for Sensitive Groups
+Philippines,Santiago,62,Moderate,1,Good,13,Good,6,Good,62,Moderate
+Indonesia,Cikeruh,76,Moderate,1,Good,39,Good,1,Good,76,Moderate
+Indonesia,Cimahi,104,Unhealthy for Sensitive Groups,2,Good,93,Moderate,1,Good,104,Unhealthy for Sensitive Groups
+Thailand,Sawang Daen Din,49,Good,1,Good,29,Good,0,Good,49,Good
+Indonesia,Sigli,40,Good,1,Good,35,Good,0,Good,40,Good
+Indonesia,Situbondo,51,Moderate,1,Good,32,Good,0,Good,51,Moderate
+Thailand,Nakhon Pathom,35,Good,0,Good,24,Good,0,Good,35,Good
+Indonesia,Lawang,83,Moderate,2,Good,40,Good,1,Good,83,Moderate
+Indonesia,Magelang,60,Moderate,1,Good,32,Good,0,Good,60,Moderate
+Myanmar,Mawlaik,19,Good,1,Good,19,Good,0,Good,11,Good
+Thailand,Phitsanulok,51,Moderate,0,Good,24,Good,0,Good,51,Moderate
+Thailand,Ranot,70,Moderate,2,Good,42,Good,0,Good,70,Moderate
+Indonesia,Nabire,24,Good,1,Good,7,Good,0,Good,24,Good
+Thailand,Ratchaburi,98,Moderate,2,Good,7,Good,8,Good,98,Moderate
+Malaysia,Paka,65,Moderate,1,Good,22,Good,4,Good,65,Moderate
+Myanmar,Pyapon,32,Good,1,Good,29,Good,0,Good,32,Good
+Indonesia,Pedan,193,Unhealthy,10,Good,6,Good,20,Good,193,Unhealthy
+Indonesia,Waru,155,Unhealthy,3,Good,117,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+Laos,Luang Prabang,23,Good,0,Good,19,Good,0,Good,23,Good
+Thailand,Maha Sarakham,58,Moderate,0,Good,28,Good,0,Good,58,Moderate
+Malaysia,Kuala Kangsar,84,Moderate,2,Good,74,Moderate,0,Good,84,Moderate
+Malaysia,Kuala Pilah,64,Moderate,1,Good,38,Good,1,Good,64,Moderate
+Thailand,Kamphaeng Phet,162,Unhealthy,1,Good,25,Good,0,Good,162,Unhealthy
+Indonesia,Kanigoro,38,Good,1,Good,24,Good,0,Good,38,Good
+Indonesia,Kedungwuni,83,Moderate,2,Good,46,Good,1,Good,83,Moderate
+Thailand,Kalasin,43,Good,1,Good,28,Good,0,Good,43,Good
+Indonesia,Comal,102,Unhealthy for Sensitive Groups,2,Good,55,Moderate,1,Good,102,Unhealthy for Sensitive Groups
+Indonesia,Gondanglegi,50,Good,1,Good,29,Good,0,Good,50,Good
+Indonesia,Garut,69,Moderate,1,Good,33,Good,1,Good,69,Moderate
+Cambodia,Kampong Chhnang,21,Good,0,Good,16,Good,0,Good,21,Good
+Indonesia,Karangasem,44,Good,1,Good,26,Good,0,Good,44,Good
+Indonesia,Karawang,124,Unhealthy for Sensitive Groups,3,Good,124,Unhealthy for Sensitive Groups,1,Good,91,Moderate
+Malaysia,Kuala Krai,64,Moderate,1,Good,27,Good,0,Good,64,Moderate
+Malaysia,Kulai,151,Unhealthy,1,Good,61,Moderate,3,Good,151,Unhealthy
+Philippines,Pulilan,63,Moderate,1,Good,23,Good,1,Good,63,Moderate
+Vietnam,Qui Nhon,47,Good,1,Good,23,Good,0,Good,47,Good
+Thailand,Sam Phran,55,Moderate,1,Good,24,Good,0,Good,55,Moderate
+Indonesia,Serang,195,Unhealthy,4,Good,195,Unhealthy,3,Good,161,Unhealthy
+Indonesia,Perbaungan,76,Moderate,2,Good,41,Good,0,Good,76,Moderate
+Thailand,Phayakkhaphum Phisai,43,Good,0,Good,28,Good,0,Good,43,Good
+Philippines,Polomolok,41,Good,1,Good,17,Good,0,Good,41,Good
+Vietnam,Soc Trang,58,Moderate,1,Good,28,Good,1,Good,58,Moderate
+Thailand,Nong Khai,49,Good,0,Good,26,Good,0,Good,49,Good
+Indonesia,Jogonalan,59,Moderate,1,Good,28,Good,1,Good,59,Moderate
+Vietnam,Ho Chi Minh City,86,Moderate,2,Good,35,Good,2,Good,86,Moderate
+Thailand,Kranuan,42,Good,0,Good,28,Good,0,Good,42,Good
+Thailand,Lat Yao,20,Good,0,Good,20,Good,0,Good,17,Good
+Philippines,Longos,52,Moderate,1,Good,25,Good,1,Good,52,Moderate
+Philippines,Lutayan,53,Moderate,1,Good,24,Good,0,Good,53,Moderate
+Philippines,Makati,63,Moderate,1,Good,23,Good,1,Good,63,Moderate
+Malaysia,Miri,209,Very Unhealthy,67,Moderate,209,Very Unhealthy,2,Good,157,Unhealthy
+Vietnam,Ninh Binh,54,Moderate,1,Good,37,Good,1,Good,54,Moderate
+Indonesia,Klaten,48,Good,1,Good,27,Good,0,Good,48,Good
+Philippines,Magsaysay,57,Moderate,1,Good,23,Good,0,Good,57,Moderate
+Indonesia,Tondano,29,Good,0,Good,15,Good,0,Good,29,Good
+Malaysia,Ranau,41,Good,1,Good,27,Good,0,Good,41,Good
+Malaysia,Raub,74,Moderate,1,Good,35,Good,0,Good,74,Moderate
+Philippines,Roxas,45,Good,1,Good,27,Good,0,Good,45,Good
+Thailand,Sa Kaeo,46,Good,0,Good,29,Good,0,Good,46,Good
+Philippines,Sagay,53,Moderate,1,Good,27,Good,0,Good,53,Moderate
+Philippines,Samal,61,Moderate,1,Good,16,Good,0,Good,61,Moderate
+Philippines,San Simon,54,Moderate,1,Good,27,Good,0,Good,54,Moderate
+Malaysia,Pekan,63,Moderate,1,Good,35,Good,0,Good,63,Moderate
+Philippines,Pangil,51,Moderate,1,Good,26,Good,2,Good,51,Moderate
+Indonesia,Bambanglipuro,37,Good,1,Good,24,Good,0,Good,37,Good
+Malaysia,Bidor,51,Moderate,1,Good,43,Good,0,Good,51,Moderate
+Philippines,Binalbagan,75,Moderate,1,Good,18,Good,0,Good,75,Moderate
+Philippines,Angat,73,Moderate,1,Good,23,Good,1,Good,73,Moderate
+Vietnam,Son La,21,Good,0,Good,20,Good,0,Good,21,Good
+Malaysia,Tumpat,68,Moderate,2,Good,38,Good,0,Good,68,Moderate
+Philippines,Tiwi,62,Moderate,1,Good,23,Good,0,Good,62,Moderate
+Vietnam,Tra Vinh,64,Moderate,1,Good,27,Good,1,Good,64,Moderate
+Myanmar,Wakema,56,Moderate,0,Good,22,Good,0,Good,56,Moderate
+Thailand,Wang Saphung,43,Good,0,Good,23,Good,0,Good,43,Good
+Thailand,Yang Talat,46,Good,0,Good,29,Good,0,Good,46,Good
+Thailand,Lop Buri,47,Good,1,Good,28,Good,0,Good,47,Good
+Philippines,Lumban,57,Moderate,1,Good,25,Good,2,Good,57,Moderate
+Malaysia,Lumut,58,Moderate,1,Good,44,Good,1,Good,58,Moderate
+Philippines,Manggahan,46,Good,1,Good,26,Good,1,Good,46,Good
+Philippines,Maragondon,30,Good,1,Good,27,Good,1,Good,30,Good
+Indonesia,Singaraja,48,Good,1,Good,30,Good,0,Good,48,Good
+Thailand,Thoen,39,Good,1,Good,9,Good,1,Good,39,Good
+Philippines,Tuba,55,Moderate,1,Good,25,Good,5,Good,55,Moderate
+Malaysia,Sungai Pelek,121,Unhealthy for Sensitive Groups,3,Good,17,Good,8,Good,121,Unhealthy for Sensitive Groups
+Philippines,Taal,75,Moderate,1,Good,21,Good,6,Good,75,Moderate
+Thailand,Den Chai,25,Good,0,Good,22,Good,0,Good,25,Good
+Philippines,Amadeo,40,Good,0,Good,26,Good,0,Good,40,Good
+Thailand,Bang Rakam,92,Moderate,0,Good,25,Good,0,Good,92,Moderate
+Malaysia,Batang Berjuntai,97,Moderate,2,Good,53,Moderate,1,Good,97,Moderate
+Philippines,Bigaa,53,Moderate,1,Good,24,Good,0,Good,53,Moderate
+Indonesia,Bulakamba,83,Moderate,2,Good,45,Good,1,Good,83,Moderate
+Vietnam,Cam Ranh,62,Moderate,1,Good,30,Good,0,Good,62,Moderate
+Thailand,Chum Phae,43,Good,0,Good,25,Good,0,Good,43,Good
+Indonesia,Cisaat,140,Unhealthy for Sensitive Groups,2,Good,91,Moderate,1,Good,140,Unhealthy for Sensitive Groups
+Indonesia,Cianjur,96,Moderate,2,Good,78,Moderate,1,Good,96,Moderate
+Indonesia,Cibinong,173,Unhealthy,4,Good,173,Unhealthy,3,Good,150,Unhealthy
+Philippines,Bongabon,75,Moderate,1,Good,29,Good,0,Good,75,Moderate
+Indonesia,Besuki,58,Moderate,1,Good,37,Good,0,Good,58,Moderate
+Indonesia,Rengasdengklok,98,Moderate,2,Good,84,Moderate,1,Good,98,Moderate
+Philippines,Telabastagan,71,Moderate,1,Good,23,Good,1,Good,71,Moderate
+Thailand,Thap Khlo,50,Good,0,Good,21,Good,0,Good,50,Good
+Indonesia,Ruteng,24,Good,1,Good,24,Good,0,Good,19,Good
+Indonesia,Sukabumi,97,Moderate,2,Good,67,Moderate,1,Good,97,Moderate
+Thailand,Surat Thani,33,Good,0,Good,17,Good,0,Good,33,Good
+Malaysia,Tapah,51,Moderate,1,Good,42,Good,0,Good,51,Moderate
+Philippines,Veruela,54,Moderate,1,Good,18,Good,0,Good,54,Moderate
+Cambodia,Phnum Penh,37,Good,0,Good,18,Good,0,Good,37,Good
+Laos,Phonhong,42,Good,0,Good,22,Good,0,Good,42,Good
+Myanmar,Myitkyina,48,Good,1,Good,27,Good,0,Good,48,Good
+Philippines,Masinloc,62,Moderate,0,Good,25,Good,0,Good,62,Moderate
+Philippines,Tubigon,66,Moderate,1,Good,20,Good,0,Good,66,Moderate
+Philippines,Wao,30,Good,1,Good,20,Good,0,Good,30,Good
+Thailand,Nong Khae,63,Moderate,1,Good,29,Good,1,Good,63,Moderate
+Myanmar,Moulmeingyun,34,Good,0,Good,24,Good,0,Good,34,Good
+Philippines,Canlaon,44,Good,1,Good,17,Good,0,Good,44,Good
+Indonesia,Balapulang,78,Moderate,2,Good,62,Moderate,1,Good,78,Moderate
+Myanmar,Bogale,34,Good,0,Good,24,Good,0,Good,34,Good
+Philippines,General Mamerto Natividad,95,Moderate,1,Good,31,Good,1,Good,95,Moderate
+Indonesia,Jember,46,Good,1,Good,27,Good,0,Good,46,Good
+Philippines,Hinatuan,33,Good,1,Good,18,Good,0,Good,33,Good
+Philippines,Santa Elena,30,Good,1,Good,30,Good,0,Good,27,Good
+Thailand,Sadao,58,Moderate,1,Good,28,Good,0,Good,58,Moderate
+Philippines,Morong,53,Moderate,1,Good,25,Good,1,Good,53,Moderate
+Thailand,Nan,38,Good,0,Good,23,Good,0,Good,38,Good
+Indonesia,Tambun,147,Unhealthy for Sensitive Groups,3,Good,147,Unhealthy for Sensitive Groups,1,Good,128,Unhealthy for Sensitive Groups
+Malaysia,Tampin,64,Moderate,1,Good,37,Good,0,Good,64,Moderate
+Thailand,Thanyaburi,64,Moderate,1,Good,29,Good,1,Good,64,Moderate
+Indonesia,Wates,73,Moderate,1,Good,39,Good,0,Good,73,Moderate
+Philippines,Vallehermoso,51,Moderate,1,Good,22,Good,0,Good,51,Moderate
+Indonesia,Lumajang,42,Good,1,Good,26,Good,0,Good,42,Good
+Malaysia,Klang,57,Moderate,1,Good,34,Good,1,Good,57,Moderate
+Malaysia,Kota Tinggi,129,Unhealthy for Sensitive Groups,1,Good,52,Moderate,2,Good,129,Unhealthy for Sensitive Groups
+Malaysia,Kapit,38,Good,2,Good,14,Good,0,Good,38,Good
+Malaysia,Keningau,55,Moderate,1,Good,23,Good,0,Good,55,Moderate
+Thailand,Khanu Woralaksaburi,46,Good,0,Good,20,Good,0,Good,46,Good
+Thailand,That Phanom,60,Moderate,2,Good,14,Good,2,Good,60,Moderate
+Malaysia,Sungai Petani,150,Unhealthy,3,Good,23,Good,10,Good,150,Unhealthy
+Thailand,Tak Bai,72,Moderate,2,Good,27,Good,3,Good,72,Moderate
+Indonesia,Tanggul,160,Unhealthy,6,Good,9,Good,12,Good,160,Unhealthy
+Myanmar,Shwebo,58,Moderate,1,Good,11,Good,2,Good,58,Moderate
+Philippines,Silay,72,Moderate,2,Good,29,Good,3,Good,72,Moderate
+Philippines,San Pascual,70,Moderate,1,Good,25,Good,6,Good,70,Moderate
+Myanmar,Mandalay,71,Moderate,2,Good,7,Good,3,Good,71,Moderate
+Indonesia,Barabai,67,Moderate,2,Good,5,Good,2,Good,67,Moderate
+Philippines,Cotabato,37,Good,1,Good,22,Good,1,Good,37,Good
+Indonesia,Palabuhanratu,164,Unhealthy,6,Good,25,Good,14,Good,164,Unhealthy
+Philippines,Baloc,148,Unhealthy for Sensitive Groups,1,Good,29,Good,2,Good,148,Unhealthy for Sensitive Groups
+Philippines,Calintaan,32,Good,0,Good,25,Good,0,Good,32,Good
+Indonesia,Cepu,76,Moderate,2,Good,64,Moderate,1,Good,76,Moderate
+Indonesia,Cibitung,152,Unhealthy,3,Good,152,Unhealthy,1,Good,111,Unhealthy for Sensitive Groups
+Indonesia,Cikupa,207,Very Unhealthy,5,Good,207,Very Unhealthy,4,Good,166,Unhealthy
+Indonesia,Amuntai,45,Good,1,Good,15,Good,0,Good,45,Good
+Laos,Xam Nua,36,Good,2,Good,8,Good,1,Good,36,Good
+Philippines,Bais,83,Moderate,1,Good,14,Good,0,Good,83,Moderate
+Thailand,Bang Sao Thong,59,Moderate,1,Good,20,Good,1,Good,59,Moderate
+Indonesia,Rajapolah,58,Moderate,1,Good,35,Good,0,Good,58,Moderate
+Cambodia,Kampong Thum,44,Good,1,Good,21,Good,0,Good,44,Good
+Myanmar,Kayan,56,Moderate,0,Good,24,Good,0,Good,56,Moderate
+Vietnam,Dien Bien,21,Good,0,Good,21,Good,0,Good,20,Good
+Thailand,Pa Daet,28,Good,0,Good,26,Good,0,Good,28,Good
+Thailand,Pathum Thani,63,Moderate,1,Good,26,Good,1,Good,63,Moderate
+Philippines,Lupao,73,Moderate,1,Good,23,Good,2,Good,73,Moderate
+Indonesia,Mentok,50,Good,1,Good,30,Good,0,Good,50,Good
+Indonesia,Parakan,99,Moderate,2,Good,57,Moderate,1,Good,99,Moderate
+Malaysia,Parit Raja,89,Moderate,1,Good,39,Good,0,Good,89,Moderate
+Malaysia,Pasir Mas,65,Moderate,2,Good,36,Good,0,Good,65,Moderate
+Indonesia,Ngemplak,63,Moderate,1,Good,35,Good,0,Good,63,Moderate
+Philippines,Midsayap,54,Moderate,1,Good,25,Good,0,Good,54,Moderate
+Indonesia,Ambarawa,86,Moderate,2,Good,53,Moderate,1,Good,86,Moderate
+Indonesia,Cibadak,181,Unhealthy,4,Good,181,Unhealthy,3,Good,157,Unhealthy
+Indonesia,Adiwerna,92,Moderate,2,Good,49,Good,1,Good,92,Moderate
+Philippines,Alaminos,42,Good,0,Good,25,Good,1,Good,42,Good
+Malaysia,Bentong,89,Moderate,1,Good,42,Good,0,Good,89,Moderate
+Philippines,Buluan,38,Good,0,Good,20,Good,0,Good,38,Good
+Philippines,Tarlac,154,Unhealthy,2,Good,25,Good,7,Good,154,Unhealthy
+Thailand,Surin,85,Moderate,2,Good,18,Good,4,Good,85,Moderate
+Cambodia,Ta Khmau,73,Moderate,1,Good,7,Good,5,Good,73,Moderate
+Indonesia,Depok,60,Moderate,1,Good,33,Good,0,Good,60,Moderate
+Philippines,Quisao,54,Moderate,1,Good,23,Good,1,Good,54,Moderate
+Indonesia,Rantepao,14,Good,0,Good,14,Good,0,Good,14,Good
+Myanmar,Henzada,50,Good,0,Good,23,Good,0,Good,50,Good
+Thailand,Chon Daen,34,Good,0,Good,24,Good,0,Good,34,Good
+Malaysia,Kuala Perlis,67,Moderate,2,Good,61,Moderate,0,Good,67,Moderate
+Thailand,Lampang,34,Good,0,Good,23,Good,1,Good,34,Good
+Singapore,Singapore,91,Moderate,1,Good,29,Good,4,Good,91,Moderate
+Indonesia,Sumenep,51,Moderate,1,Good,35,Good,0,Good,51,Moderate
+Thailand,Kaeng Khlo,39,Good,1,Good,28,Good,0,Good,39,Good
+Indonesia,Karanganyar,72,Moderate,1,Good,35,Good,0,Good,72,Moderate
+Indonesia,Kasihan,57,Moderate,1,Good,33,Good,0,Good,57,Moderate
+Philippines,Quezon,113,Unhealthy for Sensitive Groups,1,Good,27,Good,2,Good,113,Unhealthy for Sensitive Groups
+Malaysia,Sabak,51,Moderate,1,Good,43,Good,1,Good,51,Moderate
+Malaysia,Kuala Selangor,52,Moderate,1,Good,40,Good,1,Good,52,Moderate
+Indonesia,Teluk Nibung,64,Moderate,2,Good,32,Good,0,Good,64,Moderate
+Thailand,Tha Muang,41,Good,0,Good,19,Good,0,Good,41,Good
+Indonesia,Srandakan,42,Good,1,Good,24,Good,0,Good,42,Good
+Myanmar,Yenangyaung,42,Good,1,Good,31,Good,0,Good,42,Good
+Malaysia,Yong Peng,64,Moderate,1,Good,37,Good,0,Good,64,Moderate
+Indonesia,Wanasari,93,Moderate,2,Good,46,Good,1,Good,93,Moderate
+Philippines,Maluso,26,Good,0,Good,15,Good,0,Good,26,Good
+Cambodia,Lumphat,48,Good,1,Good,24,Good,0,Good,48,Good
+Indonesia,Luwuk,18,Good,0,Good,18,Good,0,Good,9,Good
+Thailand,Mae Sot,18,Good,0,Good,18,Good,0,Good,16,Good
+Myanmar,Magway,23,Good,0,Good,23,Good,0,Good,18,Good
+Malaysia,Lawan Kuda Baharu,70,Moderate,1,Good,36,Good,0,Good,70,Moderate
+Philippines,Liliw,49,Good,1,Good,26,Good,1,Good,49,Good
+Indonesia,Sinjai,20,Good,1,Good,20,Good,0,Good,16,Good
+Indonesia,Selogiri,46,Good,1,Good,26,Good,0,Good,46,Good
+Thailand,Hua Hin,29,Good,0,Good,18,Good,0,Good,29,Good
+Indonesia,Kediri,51,Moderate,1,Good,30,Good,0,Good,51,Moderate
+Indonesia,Jambi,81,Moderate,2,Good,41,Good,0,Good,81,Moderate
+Indonesia,Jatibarang,91,Moderate,2,Good,83,Moderate,1,Good,91,Moderate
+Indonesia,Juwana,90,Moderate,2,Good,73,Moderate,1,Good,90,Moderate
+Myanmar,Rangoon,38,Good,0,Good,24,Good,0,Good,38,Good
+Myanmar,Monywa,26,Good,0,Good,26,Good,0,Good,21,Good
+Myanmar,Syriam,62,Moderate,0,Good,23,Good,0,Good,62,Moderate
+Thailand,Tha Maka,33,Good,0,Good,22,Good,0,Good,33,Good
+Indonesia,Kuningan,56,Moderate,1,Good,31,Good,0,Good,56,Moderate
+Thailand,Long,26,Good,0,Good,20,Good,0,Good,26,Good
+Malaysia,Petaling Jaya,97,Moderate,2,Good,48,Good,1,Good,97,Moderate
+Thailand,Phichit,26,Good,0,Good,23,Good,0,Good,26,Good
+Thailand,Phrae,62,Moderate,0,Good,24,Good,0,Good,62,Moderate
+Philippines,Manila,131,Unhealthy for Sensitive Groups,3,Good,25,Good,7,Good,131,Unhealthy for Sensitive Groups
+Indonesia,Bangil,155,Unhealthy,3,Good,96,Moderate,2,Good,155,Unhealthy
+Indonesia,Ciputat,202,Very Unhealthy,5,Good,202,Very Unhealthy,3,Good,168,Unhealthy
+Malaysia,Bukit Bakri,77,Moderate,1,Good,32,Good,0,Good,77,Moderate
+Indonesia,Ambulu,54,Moderate,1,Good,33,Good,0,Good,54,Moderate
+Indonesia,Buduran,158,Unhealthy,3,Good,133,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+Philippines,Cagayan De Oro,39,Good,1,Good,20,Good,0,Good,39,Good
+Philippines,Biao,35,Good,1,Good,16,Good,0,Good,35,Good
+Indonesia,Cibeureum,63,Moderate,1,Good,40,Good,0,Good,63,Moderate
+Vietnam,Uong Bi,152,Unhealthy,3,Good,43,Good,3,Good,152,Unhealthy
+Indonesia,Mayong,80,Moderate,2,Good,80,Moderate,1,Good,77,Moderate
+Indonesia,Pandak,56,Moderate,1,Good,34,Good,0,Good,56,Moderate
+Indonesia,Panji,52,Moderate,1,Good,32,Good,0,Good,52,Moderate
+Malaysia,Pekan Nenas,116,Unhealthy for Sensitive Groups,1,Good,36,Good,4,Good,116,Unhealthy for Sensitive Groups
+Malaysia,Peringat,64,Moderate,2,Good,36,Good,0,Good,64,Moderate
+Philippines,Paete,51,Moderate,1,Good,23,Good,1,Good,51,Moderate
+Malaysia,Kerteh,105,Unhealthy for Sensitive Groups,1,Good,45,Good,0,Good,105,Unhealthy for Sensitive Groups
+Thailand,Nong Ki,50,Good,0,Good,27,Good,0,Good,50,Good
+Myanmar,Allanmyo,37,Good,0,Good,25,Good,0,Good,37,Good
+Indonesia,Bondowoso,47,Good,1,Good,29,Good,0,Good,47,Good
+Philippines,Pacol,34,Good,1,Good,18,Good,0,Good,34,Good
+Philippines,San Marcelino,47,Good,1,Good,28,Good,0,Good,47,Good
+Indonesia,Kisaran,71,Moderate,2,Good,36,Good,0,Good,71,Moderate
+Philippines,San Mariano,42,Good,1,Good,34,Good,0,Good,42,Good
+Indonesia,Padalarang,103,Unhealthy for Sensitive Groups,2,Good,81,Moderate,1,Good,103,Unhealthy for Sensitive Groups
+Thailand,Bua Yai,51,Moderate,0,Good,25,Good,0,Good,51,Moderate
+Philippines,Bulalacao,44,Good,1,Good,21,Good,0,Good,44,Good
+Indonesia,Cicalengka,101,Unhealthy for Sensitive Groups,2,Good,63,Moderate,1,Good,101,Unhealthy for Sensitive Groups
+Indonesia,Ciomas,137,Unhealthy for Sensitive Groups,3,Good,121,Unhealthy for Sensitive Groups,2,Good,137,Unhealthy for Sensitive Groups
+Thailand,Bang Racham,80,Moderate,2,Good,17,Good,4,Good,80,Moderate
+Philippines,Batangas,72,Moderate,2,Good,25,Good,7,Good,72,Moderate
+Thailand,Chai Nat,62,Moderate,1,Good,16,Good,2,Good,62,Moderate
+Myanmar,Kyaikto,22,Good,1,Good,22,Good,0,Good,22,Good
+Philippines,Mendez,81,Moderate,2,Good,23,Good,6,Good,81,Moderate
+Thailand,Nam Phong,86,Moderate,2,Good,21,Good,4,Good,86,Moderate
+Philippines,Palayan,106,Unhealthy for Sensitive Groups,2,Good,18,Good,5,Good,106,Unhealthy for Sensitive Groups
+Indonesia,Purwokerto,178,Unhealthy,9,Good,14,Good,22,Good,178,Unhealthy
+Indonesia,Jatiroto,163,Unhealthy,6,Good,10,Good,13,Good,163,Unhealthy
+Indonesia,Kefamenanu,70,Moderate,1,Good,16,Good,0,Good,70,Moderate
+Thailand,Bang Phae,133,Unhealthy for Sensitive Groups,3,Good,3,Good,11,Good,133,Unhealthy for Sensitive Groups
+Indonesia,Banyuwangi,101,Unhealthy for Sensitive Groups,3,Good,19,Good,4,Good,101,Unhealthy for Sensitive Groups
+Indonesia,Gamping,164,Unhealthy,6,Good,12,Good,18,Good,164,Unhealthy
+Philippines,Davao,87,Moderate,1,Good,17,Good,1,Good,87,Moderate
+Thailand,Si Satchanalai,62,Moderate,1,Good,17,Good,1,Good,62,Moderate
+Indonesia,Labuhan,176,Unhealthy,3,Good,176,Unhealthy,1,Good,137,Unhealthy for Sensitive Groups
+Vietnam,Lao Cai,25,Good,1,Good,25,Good,0,Good,15,Good
+Philippines,Laoag,28,Good,0,Good,28,Good,0,Good,26,Good
+Indonesia,Nganjuk,172,Unhealthy,6,Good,6,Good,19,Good,172,Unhealthy
+Philippines,Del Pilar,144,Unhealthy for Sensitive Groups,2,Good,26,Good,7,Good,144,Unhealthy for Sensitive Groups
+Philippines,Placer,32,Good,1,Good,23,Good,0,Good,32,Good
+Indonesia,Ambon,27,Good,0,Good,14,Good,0,Good,27,Good
+Philippines,Tubod,26,Good,1,Good,15,Good,0,Good,26,Good
+Indonesia,Kraksaan,69,Moderate,2,Good,40,Good,1,Good,69,Moderate
+Indonesia,Kroya,64,Moderate,1,Good,40,Good,1,Good,64,Moderate
+Malaysia,Kuantan,86,Moderate,1,Good,38,Good,0,Good,86,Moderate
+Indonesia,Poso,23,Good,1,Good,11,Good,0,Good,23,Good
+Indonesia,Temanggung,87,Moderate,2,Good,58,Moderate,1,Good,87,Moderate
+Indonesia,Weru,68,Moderate,2,Good,49,Good,0,Good,68,Moderate
+Malaysia,Senai,120,Unhealthy for Sensitive Groups,1,Good,39,Good,3,Good,120,Unhealthy for Sensitive Groups
+Indonesia,Stabat,55,Moderate,2,Good,41,Good,0,Good,55,Moderate
+Thailand,Sukhothai,76,Moderate,1,Good,24,Good,0,Good,76,Moderate
+Thailand,Chom Bung,22,Good,0,Good,22,Good,0,Good,22,Good
+Indonesia,Trucuk,66,Moderate,1,Good,35,Good,1,Good,66,Moderate
+Myanmar,Thongwa,38,Good,0,Good,25,Good,0,Good,38,Good
+Thailand,Pran Buri,35,Good,0,Good,18,Good,0,Good,35,Good
+Philippines,San Nicolas,62,Moderate,1,Good,23,Good,1,Good,62,Moderate
+Thailand,Sawankhalok,73,Moderate,0,Good,23,Good,0,Good,73,Moderate
+Indonesia,Payakumbuh,61,Moderate,1,Good,25,Good,0,Good,61,Moderate
+Indonesia,Tanggulangin,165,Unhealthy,3,Good,111,Unhealthy for Sensitive Groups,1,Good,165,Unhealthy
+Thailand,Selaphum,50,Good,1,Good,28,Good,0,Good,50,Good
+Malaysia,Semenyih,72,Moderate,2,Good,36,Good,1,Good,72,Moderate
+Thailand,Phak Hai,54,Moderate,1,Good,25,Good,1,Good,54,Moderate
+Thailand,Phanat Nikhom,53,Moderate,1,Good,18,Good,1,Good,53,Moderate
+Philippines,Guiljungan,50,Good,1,Good,16,Good,0,Good,50,Good
+Indonesia,Randudongkal,188,Unhealthy,11,Good,8,Good,26,Good,188,Unhealthy
+Malaysia,Alor Setar,55,Moderate,1,Good,35,Good,0,Good,55,Moderate
+Indonesia,Lasem,93,Moderate,2,Good,52,Moderate,1,Good,93,Moderate
+Indonesia,Karangampel,72,Moderate,1,Good,44,Good,0,Good,72,Moderate
+Malaysia,Kota Bahru,66,Moderate,2,Good,38,Good,0,Good,66,Moderate
+Philippines,Iriga,58,Moderate,1,Good,26,Good,0,Good,58,Moderate
+Indonesia,Madiun,169,Unhealthy,6,Good,3,Good,20,Good,169,Unhealthy
+Philippines,Mamburao,34,Good,1,Good,18,Good,0,Good,34,Good
+Philippines,Mankayan,31,Good,1,Good,21,Good,3,Good,31,Good
+Indonesia,Margasari,187,Unhealthy,10,Good,8,Good,25,Good,187,Unhealthy
+Vietnam,Phu Ly,164,Unhealthy,8,Good,26,Good,18,Good,164,Unhealthy
+Philippines,Padada,89,Moderate,1,Good,13,Good,3,Good,89,Moderate
+Philippines,Panacan,14,Good,1,Good,14,Good,0,Good,10,Good
+Philippines,Tanauan,63,Moderate,1,Good,23,Good,0,Good,63,Moderate
+Indonesia,Tasikmalaya,56,Moderate,1,Good,27,Good,0,Good,56,Moderate
+Myanmar,Thayetmyo,37,Good,0,Good,25,Good,0,Good,37,Good
+Thailand,Prachuap Khiri Khan,28,Good,0,Good,17,Good,0,Good,28,Good
+Indonesia,Purwodadi,69,Moderate,1,Good,49,Good,0,Good,69,Moderate
+Indonesia,Pati,79,Moderate,2,Good,67,Moderate,1,Good,79,Moderate
+Philippines,Pililla,50,Good,1,Good,26,Good,1,Good,50,Good
+Laos,Champasak,47,Good,0,Good,22,Good,0,Good,47,Good
+Thailand,Chon Buri,51,Moderate,0,Good,21,Good,0,Good,51,Moderate
+Malaysia,Mersing,63,Moderate,1,Good,36,Good,0,Good,63,Moderate
+Myanmar,Mogok,22,Good,0,Good,22,Good,0,Good,16,Good
+Philippines,Kabacan,63,Moderate,1,Good,28,Good,0,Good,63,Moderate
+Philippines,Tuyom,40,Good,1,Good,17,Good,0,Good,40,Good
+Indonesia,Astanajapura,61,Moderate,1,Good,36,Good,0,Good,61,Moderate
+Myanmar,Chauk,23,Good,0,Good,23,Good,0,Good,18,Good
+Indonesia,Cikarang,132,Unhealthy for Sensitive Groups,3,Good,132,Unhealthy for Sensitive Groups,1,Good,127,Unhealthy for Sensitive Groups
+Philippines,Baculongan,26,Good,0,Good,21,Good,1,Good,26,Good
+Thailand,Ban Tak,42,Good,0,Good,20,Good,0,Good,42,Good
+Indonesia,Batu,78,Moderate,1,Good,35,Good,1,Good,78,Moderate
+Myanmar,Tharrawaddy,54,Moderate,0,Good,21,Good,0,Good,54,Moderate
+Malaysia,Bedong,70,Moderate,1,Good,49,Good,0,Good,70,Moderate
+Philippines,Calumpit,63,Moderate,1,Good,23,Good,1,Good,63,Moderate
+Philippines,Dulag,54,Moderate,1,Good,17,Good,0,Good,54,Moderate
+Myanmar,Dawei,29,Good,0,Good,22,Good,0,Good,29,Good
+Thailand,Photharam,32,Good,0,Good,22,Good,0,Good,32,Good
+Cambodia,Pousat,26,Good,0,Good,18,Good,0,Good,26,Good
+Philippines,Pamplona,81,Moderate,1,Good,14,Good,0,Good,81,Moderate
+Vietnam,Phan Rang,62,Moderate,1,Good,30,Good,0,Good,62,Moderate
+Philippines,Sampaloc,54,Moderate,1,Good,23,Good,1,Good,54,Moderate
+Thailand,Laem Sing,43,Good,1,Good,22,Good,0,Good,43,Good
+Philippines,Obando,64,Moderate,1,Good,23,Good,1,Good,64,Moderate
+Indonesia,Sawangan,205,Very Unhealthy,5,Good,205,Very Unhealthy,4,Good,171,Unhealthy
+Myanmar,Ye,34,Good,0,Good,22,Good,0,Good,34,Good
+Philippines,Zamboanga,54,Moderate,1,Good,14,Good,0,Good,54,Moderate
+Philippines,Gapan,71,Moderate,1,Good,26,Good,1,Good,71,Moderate
+Indonesia,Denpasar,39,Good,1,Good,24,Good,0,Good,39,Good
+Indonesia,Sooko,140,Unhealthy for Sensitive Groups,2,Good,71,Moderate,1,Good,140,Unhealthy for Sensitive Groups
+Indonesia,Jatiwangi,63,Moderate,1,Good,37,Good,1,Good,63,Moderate
+Philippines,Vinzons,41,Good,1,Good,23,Good,0,Good,41,Good
+Philippines,Pio Duran,36,Good,1,Good,25,Good,0,Good,36,Good
+Indonesia,Soe,21,Good,0,Good,19,Good,0,Good,21,Good
+Philippines,Seit,16,Good,1,Good,16,Good,0,Good,8,Good
+Thailand,Chiang Khong,26,Good,0,Good,24,Good,0,Good,26,Good
+Thailand,Bamnet Narong,24,Good,0,Good,24,Good,0,Good,21,Good
+Philippines,Bislig,31,Good,1,Good,18,Good,0,Good,31,Good
+Indonesia,Blora,81,Moderate,2,Good,69,Moderate,1,Good,81,Moderate
+Myanmar,Myanaung,42,Good,0,Good,23,Good,0,Good,42,Good
+Myanmar,Minbu,25,Good,0,Good,25,Good,0,Good,19,Good
+Myanmar,Mae Sai,34,Good,1,Good,23,Good,0,Good,34,Good
+Indonesia,Majalaya,84,Moderate,2,Good,48,Good,1,Good,84,Moderate
+Vietnam,Son Tay,194,Unhealthy,4,Good,194,Unhealthy,2,Good,150,Unhealthy
+Philippines,Orion,43,Good,1,Good,27,Good,1,Good,43,Good
+Indonesia,Palimanan,67,Moderate,1,Good,48,Good,1,Good,67,Moderate
+Indonesia,Labuhan Deli,103,Unhealthy for Sensitive Groups,2,Good,63,Moderate,1,Good,103,Unhealthy for Sensitive Groups
+Philippines,Noveleta,48,Good,1,Good,27,Good,1,Good,48,Good
+Philippines,Tigaon,54,Moderate,1,Good,21,Good,1,Good,54,Moderate
+Malaysia,Sungai Udang,92,Moderate,2,Good,21,Good,5,Good,92,Moderate
+Indonesia,Tarakan,21,Good,1,Good,11,Good,0,Good,21,Good
+Philippines,Carigara,61,Moderate,1,Good,23,Good,0,Good,61,Moderate
+Philippines,Bayugan,44,Good,1,Good,18,Good,0,Good,44,Good
+Vietnam,Buon Me Thuot,46,Good,1,Good,26,Good,0,Good,46,Good
+Philippines,Parang,50,Good,1,Good,18,Good,2,Good,50,Good
+Laos,Si Chiang Mai,75,Moderate,2,Good,9,Good,4,Good,75,Moderate
+Malaysia,Sekudai,161,Unhealthy,3,Good,4,Good,24,Good,161,Unhealthy
+Thailand,Wiang Sa,82,Moderate,2,Good,4,Good,3,Good,82,Moderate
+Indonesia,Pasarkemis,249,Very Unhealthy,11,Good,10,Good,49,Good,249,Very Unhealthy
+Philippines,Pasil,42,Good,1,Good,16,Good,4,Good,42,Good
+Thailand,Non Sang,50,Good,0,Good,25,Good,0,Good,50,Good
+Malaysia,Kuah,104,Unhealthy for Sensitive Groups,2,Good,58,Moderate,0,Good,104,Unhealthy for Sensitive Groups
+Thailand,Doembang Nangbuat,44,Good,0,Good,20,Good,0,Good,44,Good
+Philippines,Asia,120,Unhealthy for Sensitive Groups,1,Good,13,Good,0,Good,120,Unhealthy for Sensitive Groups
+Philippines,Victorias,60,Moderate,1,Good,19,Good,0,Good,60,Moderate
+Indonesia,Sumedang,67,Moderate,1,Good,37,Good,0,Good,67,Moderate
+Thailand,Suwannaphum,99,Moderate,2,Good,15,Good,5,Good,99,Moderate
+Indonesia,Metro,63,Moderate,1,Good,39,Good,0,Good,63,Moderate
+Malaysia,Juru,150,Unhealthy,3,Good,27,Good,9,Good,150,Unhealthy
+Indonesia,Kertosono,169,Unhealthy,5,Good,10,Good,15,Good,169,Unhealthy
+Thailand,Mae Chan,32,Good,0,Good,25,Good,0,Good,32,Good
+Myanmar,Nyaunglebin,46,Good,0,Good,22,Good,0,Good,46,Good
+Indonesia,Porong,166,Unhealthy,3,Good,11,Good,9,Good,166,Unhealthy
+Malaysia,Bintulu,51,Moderate,1,Good,12,Good,0,Good,51,Moderate
+Thailand,Bang Khla,57,Moderate,1,Good,24,Good,1,Good,57,Moderate
+Vietnam,Hong Gai,156,Unhealthy,4,Good,41,Good,3,Good,156,Unhealthy
+Indonesia,Ungaran,76,Moderate,1,Good,42,Good,1,Good,76,Moderate
+Thailand,Loei,44,Good,0,Good,22,Good,0,Good,44,Good
+Indonesia,Jetis,63,Moderate,1,Good,30,Good,1,Good,63,Moderate
+Thailand,Kabin Buri,58,Moderate,0,Good,31,Good,0,Good,58,Moderate
+Philippines,Damilag,52,Moderate,1,Good,23,Good,1,Good,52,Moderate
+Indonesia,Ngawi,73,Moderate,1,Good,40,Good,0,Good,73,Moderate
+Vietnam,My Tho,69,Moderate,1,Good,37,Good,1,Good,69,Moderate
+Philippines,Estancia,51,Moderate,1,Good,23,Good,0,Good,51,Moderate
+Thailand,Tha Bo,46,Good,0,Good,25,Good,0,Good,46,Good
+Indonesia,Langsa,72,Moderate,1,Good,38,Good,0,Good,72,Moderate
+Myanmar,Thaton,54,Moderate,0,Good,22,Good,0,Good,54,Moderate
+Philippines,Bulaon,70,Moderate,1,Good,23,Good,1,Good,70,Moderate
+Thailand,Soeng Sang,47,Good,0,Good,28,Good,0,Good,47,Good
+Philippines,Sebu,53,Moderate,0,Good,19,Good,0,Good,53,Moderate
+Malaysia,Segamat,70,Moderate,1,Good,41,Good,0,Good,70,Moderate
+Indonesia,Solok,61,Moderate,1,Good,32,Good,0,Good,61,Moderate
+Vietnam,Thanh Hoa,124,Unhealthy for Sensitive Groups,3,Good,124,Unhealthy for Sensitive Groups,1,Good,113,Unhealthy for Sensitive Groups
+Philippines,Guihing,48,Good,1,Good,18,Good,0,Good,48,Good
+Indonesia,Kemang,95,Moderate,2,Good,90,Moderate,1,Good,95,Moderate
+Indonesia,Lembang,194,Unhealthy,9,Good,12,Good,26,Good,194,Unhealthy
+Philippines,Lucban,74,Moderate,2,Good,22,Good,6,Good,74,Moderate
+Thailand,Sungai Padi,73,Moderate,1,Good,33,Good,0,Good,73,Moderate
+Philippines,Talibon,71,Moderate,1,Good,19,Good,0,Good,71,Moderate
+Myanmar,Pyu,42,Good,0,Good,22,Good,0,Good,42,Good
+Malaysia,Serendah,162,Unhealthy,6,Good,9,Good,23,Good,162,Unhealthy
+Philippines,Apalit,60,Moderate,1,Good,24,Good,1,Good,60,Moderate
+Indonesia,Mendahara,76,Moderate,2,Good,37,Good,0,Good,76,Moderate
+Philippines,Magallon,45,Good,1,Good,17,Good,0,Good,45,Good
+Indonesia,Subang,88,Moderate,2,Good,86,Moderate,1,Good,88,Moderate
+Indonesia,Pangkah,91,Moderate,2,Good,46,Good,1,Good,91,Moderate
+Indonesia,Surakarta,69,Moderate,1,Good,41,Good,1,Good,69,Moderate
+Thailand,Roi Et,47,Good,0,Good,30,Good,0,Good,47,Good
+Thailand,Pak Kret,57,Moderate,1,Good,27,Good,1,Good,57,Moderate
+Indonesia,Ponorogo,42,Good,1,Good,26,Good,0,Good,42,Good
+Indonesia,Tanjung Morawa,72,Moderate,2,Good,42,Good,0,Good,72,Moderate
+Myanmar,Meiktila,31,Good,1,Good,27,Good,0,Good,31,Good
+Indonesia,Baki,60,Moderate,1,Good,33,Good,0,Good,60,Moderate
+Malaysia,Pantai Remis,61,Moderate,1,Good,58,Moderate,1,Good,61,Moderate
+Thailand,Rayong,53,Moderate,0,Good,15,Good,3,Good,53,Moderate
+Thailand,Bang Saphan,19,Good,1,Good,16,Good,0,Good,19,Good
+Indonesia,Pasuruan,99,Moderate,1,Good,43,Good,1,Good,99,Moderate
+Indonesia,Plered,116,Unhealthy for Sensitive Groups,3,Good,116,Unhealthy for Sensitive Groups,1,Good,112,Unhealthy for Sensitive Groups
+Thailand,Trang,56,Moderate,1,Good,27,Good,0,Good,56,Moderate
+Myanmar,Twante,58,Moderate,0,Good,23,Good,0,Good,58,Moderate
+Malaysia,Ulu Tiram,139,Unhealthy for Sensitive Groups,1,Good,48,Good,3,Good,139,Unhealthy for Sensitive Groups
+Thailand,Uthai Thani,43,Good,0,Good,20,Good,0,Good,43,Good
+Philippines,Mabalacat,153,Unhealthy,2,Good,25,Good,7,Good,153,Unhealthy
+Philippines,Goa,48,Good,0,Good,25,Good,0,Good,48,Good
+Philippines,Baao,48,Good,0,Good,25,Good,0,Good,48,Good
+Philippines,Bacoor,52,Moderate,1,Good,27,Good,1,Good,52,Moderate
+Indonesia,Ngawen,60,Moderate,1,Good,33,Good,0,Good,60,Moderate
+Philippines,Minalin,67,Moderate,1,Good,25,Good,2,Good,67,Moderate
+Indonesia,Pundong,160,Unhealthy,5,Good,16,Good,15,Good,160,Unhealthy
+Philippines,Taloc,67,Moderate,2,Good,32,Good,2,Good,67,Moderate
+Philippines,Majayjay,51,Moderate,0,Good,24,Good,1,Good,51,Moderate
+Myanmar,Maubin,52,Moderate,0,Good,21,Good,0,Good,52,Moderate
+Indonesia,Wonopringgo,163,Unhealthy,6,Good,21,Good,14,Good,163,Unhealthy
+Indonesia,Majenang,62,Moderate,1,Good,41,Good,1,Good,62,Moderate
+Philippines,Mati,23,Good,0,Good,15,Good,0,Good,23,Good
+Indonesia,Cikampek,116,Unhealthy for Sensitive Groups,3,Good,116,Unhealthy for Sensitive Groups,1,Good,93,Moderate
+Indonesia,Galesong,46,Good,1,Good,26,Good,0,Good,46,Good
+Philippines,Cabanatuan,105,Unhealthy for Sensitive Groups,1,Good,30,Good,1,Good,105,Unhealthy for Sensitive Groups
+Indonesia,Baturaja,68,Moderate,2,Good,38,Good,0,Good,68,Moderate
+Indonesia,Blitar,39,Good,1,Good,25,Good,0,Good,39,Good
+Thailand,Chiang Kham,30,Good,0,Good,25,Good,0,Good,30,Good
+Indonesia,Bengkulu,75,Moderate,2,Good,37,Good,0,Good,75,Moderate
+Indonesia,Biak,15,Good,0,Good,15,Good,0,Good,5,Good
+Indonesia,Mundu,55,Moderate,1,Good,41,Good,0,Good,55,Moderate
+Thailand,Krathum Baen,54,Moderate,1,Good,24,Good,0,Good,54,Moderate
+Malaysia,Labis,88,Moderate,1,Good,42,Good,1,Good,88,Moderate
+Malaysia,Pengkalan Kundang,162,Unhealthy,5,Good,12,Good,23,Good,162,Unhealthy
+Vietnam,Phan Thiet,75,Moderate,1,Good,27,Good,1,Good,75,Moderate
+Thailand,Phan Thong,129,Unhealthy for Sensitive Groups,3,Good,3,Good,13,Good,129,Unhealthy for Sensitive Groups
+Thailand,Kaset Sombun,34,Good,1,Good,22,Good,0,Good,34,Good
+Thailand,Taphan Hin,53,Moderate,0,Good,21,Good,0,Good,53,Moderate
+Thailand,Chiang Klang,29,Good,0,Good,29,Good,0,Good,29,Good
+Philippines,Amungan,67,Moderate,0,Good,25,Good,0,Good,67,Moderate
+Indonesia,Jeluko,80,Moderate,2,Good,49,Good,1,Good,80,Moderate
+Indonesia,Kadipaten,63,Moderate,1,Good,37,Good,0,Good,63,Moderate
+Indonesia,Indramayu,98,Moderate,2,Good,29,Good,2,Good,98,Moderate
+Thailand,Nakhon Ratchasima,36,Good,0,Good,25,Good,0,Good,36,Good
+Thailand,Bang Mun Nak,22,Good,0,Good,22,Good,0,Good,22,Good
+Philippines,Bantay,34,Good,0,Good,26,Good,0,Good,34,Good
+Indonesia,Bandar,51,Moderate,1,Good,22,Good,0,Good,51,Moderate
+Malaysia,Simpang Rengam,94,Moderate,1,Good,43,Good,1,Good,94,Moderate
+Philippines,Solano,56,Moderate,1,Good,13,Good,4,Good,56,Moderate
+Indonesia,Serpong,297,Very Unhealthy,14,Good,10,Good,51,Moderate,297,Very Unhealthy
+Indonesia,Kedungwaru,51,Moderate,1,Good,30,Good,0,Good,51,Moderate
+Malaysia,Kelapa Sawit,117,Unhealthy for Sensitive Groups,1,Good,39,Good,3,Good,117,Unhealthy for Sensitive Groups
+Philippines,Dasmarinas,54,Moderate,1,Good,24,Good,1,Good,54,Moderate
+Philippines,Tuguegarao,39,Good,1,Good,31,Good,0,Good,39,Good
+Indonesia,Tulangan,164,Unhealthy,3,Good,10,Good,10,Good,164,Unhealthy
+Malaysia,Pasir Gudang,141,Unhealthy for Sensitive Groups,2,Good,4,Good,21,Good,141,Unhealthy for Sensitive Groups
+Myanmar,Pathein,30,Good,1,Good,26,Good,0,Good,30,Good
+Indonesia,Arjawinangun,68,Moderate,2,Good,57,Moderate,1,Good,68,Moderate
+Indonesia,Magetan,42,Good,1,Good,26,Good,0,Good,42,Good
+Philippines,Kiamba,16,Good,0,Good,16,Good,0,Good,13,Good
+Thailand,Kantang,56,Moderate,1,Good,27,Good,0,Good,56,Moderate
+Philippines,Hermosa,54,Moderate,1,Good,26,Good,1,Good,54,Moderate
+Indonesia,Singaparna,52,Moderate,1,Good,29,Good,0,Good,52,Moderate
+Philippines,Manaoag,84,Moderate,1,Good,26,Good,1,Good,84,Moderate
+Philippines,Montevista,31,Good,1,Good,16,Good,0,Good,31,Good
+Thailand,Na Wa,56,Moderate,1,Good,30,Good,0,Good,56,Moderate
+Malaysia,Pulau Sebang,63,Moderate,2,Good,32,Good,0,Good,63,Moderate
+Indonesia,Jati,81,Moderate,2,Good,49,Good,1,Good,81,Moderate
+Thailand,Sai Buri,60,Moderate,1,Good,34,Good,0,Good,60,Moderate
+Thailand,Satun,72,Moderate,2,Good,72,Moderate,0,Good,71,Moderate
+Vietnam,Yen Bai,158,Unhealthy,4,Good,158,Unhealthy,1,Good,100,Unhealthy for Sensitive Groups
+Indonesia,Bireun,74,Moderate,1,Good,31,Good,0,Good,74,Moderate
+Malaysia,Alor Gajah,100,Unhealthy for Sensitive Groups,2,Good,18,Good,7,Good,100,Unhealthy for Sensitive Groups
+Philippines,Tanay,120,Unhealthy for Sensitive Groups,2,Good,28,Good,6,Good,120,Unhealthy for Sensitive Groups
+Thailand,Si Bun Ruang,31,Good,0,Good,25,Good,0,Good,31,Good
+Malaysia,Johor Bahru,107,Unhealthy for Sensitive Groups,1,Good,35,Good,3,Good,107,Unhealthy for Sensitive Groups
+Philippines,Kalilangan,43,Good,1,Good,20,Good,0,Good,43,Good
+Philippines,Magarao,55,Moderate,1,Good,25,Good,0,Good,55,Moderate
+Philippines,Legaspi,70,Moderate,1,Good,22,Good,1,Good,70,Moderate
+Thailand,Mae Ramat,26,Good,1,Good,9,Good,1,Good,26,Good
+Thailand,Pho Thong,106,Unhealthy for Sensitive Groups,2,Good,13,Good,7,Good,106,Unhealthy for Sensitive Groups
+Vietnam,Bac Lieu,52,Moderate,1,Good,32,Good,0,Good,52,Moderate
+Philippines,Buru Un,53,Moderate,1,Good,20,Good,0,Good,53,Moderate
+Philippines,Angono,63,Moderate,1,Good,23,Good,1,Good,63,Moderate
+Thailand,Thung Song,53,Moderate,0,Good,16,Good,0,Good,53,Moderate
+Thailand,Kanchanaburi,40,Good,0,Good,19,Good,0,Good,40,Good
+Indonesia,Tabanan,39,Good,1,Good,24,Good,0,Good,39,Good
+Indonesia,Tarub,86,Moderate,2,Good,49,Good,0,Good,86,Moderate
+Philippines,Calamba,54,Moderate,1,Good,24,Good,1,Good,54,Moderate
+Vietnam,Cam Pha,73,Moderate,2,Good,36,Good,1,Good,73,Moderate
+Indonesia,Pakisaji,23,Good,0,Good,22,Good,0,Good,23,Good
+Indonesia,Bantul,46,Good,1,Good,25,Good,0,Good,46,Good
+Vietnam,Ha Noi,69,Moderate,2,Good,49,Good,2,Good,69,Moderate
+Malaysia,Sibu,61,Moderate,3,Good,21,Good,0,Good,61,Moderate
+Indonesia,Slawi,92,Moderate,2,Good,86,Moderate,1,Good,92,Moderate
+Indonesia,Curup,69,Moderate,1,Good,29,Good,0,Good,69,Moderate
+Indonesia,Gondang,177,Unhealthy,7,Good,9,Good,17,Good,177,Unhealthy
+Vietnam,Hue,61,Moderate,3,Good,33,Good,0,Good,61,Moderate
+Philippines,Lusacan,90,Moderate,2,Good,25,Good,9,Good,90,Moderate
+Indonesia,Jakarta,197,Unhealthy,4,Good,197,Unhealthy,3,Good,155,Unhealthy
+Indonesia,Kencong,54,Moderate,1,Good,32,Good,0,Good,54,Moderate
+Thailand,Pho Chai,84,Moderate,2,Good,24,Good,3,Good,84,Moderate
+Indonesia,Palu,50,Good,1,Good,7,Good,1,Good,50,Good
+Malaysia,Jertih,66,Moderate,1,Good,33,Good,0,Good,66,Moderate
+Malaysia,Batu Berendam,65,Moderate,2,Good,30,Good,0,Good,65,Moderate
+Thailand,Ban Chang,52,Moderate,0,Good,22,Good,1,Good,52,Moderate
+Malaysia,Kuang,75,Moderate,2,Good,42,Good,2,Good,75,Moderate
+Malaysia,Kulim,61,Moderate,1,Good,43,Good,0,Good,61,Moderate
+Indonesia,Makasar,67,Moderate,2,Good,25,Good,1,Good,67,Moderate
+Thailand,Phra Pradaeng,70,Moderate,1,Good,24,Good,1,Good,70,Moderate
+Philippines,Guiguinto,71,Moderate,1,Good,24,Good,1,Good,71,Moderate
+Indonesia,Rancaekek,207,Very Unhealthy,12,Good,3,Good,31,Good,207,Very Unhealthy
+Vietnam,Thai Binh,173,Unhealthy,8,Good,25,Good,18,Good,173,Unhealthy
+Philippines,Urbiztondo,119,Unhealthy for Sensitive Groups,2,Good,26,Good,6,Good,119,Unhealthy for Sensitive Groups
+Philippines,Castillejos,102,Unhealthy for Sensitive Groups,1,Good,25,Good,3,Good,102,Unhealthy for Sensitive Groups
+Indonesia,Katobu,22,Good,0,Good,18,Good,0,Good,22,Good
+Philippines,Pasacao,53,Moderate,1,Good,23,Good,0,Good,53,Moderate
+Indonesia,Demak,85,Moderate,1,Good,47,Good,1,Good,85,Moderate
+Indonesia,Klungkung,33,Good,1,Good,25,Good,0,Good,33,Good
+Malaysia,Kuching,46,Good,1,Good,16,Good,0,Good,46,Good
+Philippines,Balagtas,71,Moderate,1,Good,24,Good,1,Good,71,Moderate
+Philippines,San Narciso,69,Moderate,0,Good,25,Good,0,Good,69,Moderate
+Indonesia,Tayu,100,Unhealthy for Sensitive Groups,2,Good,100,Unhealthy for Sensitive Groups,1,Good,89,Moderate
+Indonesia,Teluknaga,188,Unhealthy,4,Good,188,Unhealthy,3,Good,163,Unhealthy
+Thailand,Ban Pong,39,Good,0,Good,23,Good,0,Good,39,Good
+Indonesia,Krian,161,Unhealthy,3,Good,137,Unhealthy for Sensitive Groups,1,Good,161,Unhealthy
+Indonesia,Manggar,34,Good,0,Good,19,Good,0,Good,34,Good
+Philippines,Agoo,54,Moderate,0,Good,24,Good,1,Good,54,Moderate
+Vietnam,Long Xuyen,53,Moderate,1,Good,24,Good,0,Good,53,Moderate
+Philippines,Surigao,53,Moderate,1,Good,22,Good,0,Good,53,Moderate
+Vietnam,Nha Trang,65,Moderate,2,Good,30,Good,0,Good,65,Moderate
+Malaysia,Sungai Besar,50,Good,1,Good,41,Good,1,Good,50,Good
+Myanmar,Sagaing,26,Good,1,Good,26,Good,0,Good,24,Good
+Philippines,Dapitan,37,Good,1,Good,17,Good,0,Good,37,Good
+Thailand,Ubon Ratchathani,46,Good,1,Good,26,Good,0,Good,46,Good
+Philippines,Iligan,56,Moderate,1,Good,22,Good,0,Good,56,Moderate
+Vietnam,Tan An,97,Moderate,2,Good,48,Good,1,Good,97,Moderate
+Thailand,Kuchinarai,51,Moderate,0,Good,26,Good,0,Good,51,Moderate
+Indonesia,Mojokerto,150,Unhealthy,3,Good,91,Moderate,1,Good,150,Unhealthy
+Malaysia,Temerloh,56,Moderate,1,Good,34,Good,0,Good,56,Moderate
+Philippines,Koronadal,31,Good,1,Good,17,Good,0,Good,31,Good
+Thailand,Bang Sai,56,Moderate,0,Good,24,Good,0,Good,56,Moderate
+Indonesia,Kualakapuas,71,Moderate,1,Good,11,Good,2,Good,71,Moderate
+Indonesia,Boyolangu,48,Good,1,Good,28,Good,0,Good,48,Good
+Indonesia,Tanete,57,Moderate,1,Good,23,Good,1,Good,57,Moderate
+Indonesia,Ngunut,51,Moderate,1,Good,26,Good,0,Good,51,Moderate
+Thailand,Sam Roi Yot,30,Good,0,Good,19,Good,0,Good,30,Good
+Myanmar,Letpadan,27,Good,1,Good,26,Good,0,Good,27,Good
+Malaysia,Kudat,40,Good,1,Good,23,Good,0,Good,40,Good
+Philippines,Trapiche,51,Moderate,1,Good,19,Good,0,Good,51,Moderate
+Indonesia,Welahan,96,Moderate,2,Good,87,Moderate,2,Good,96,Moderate
+Indonesia,Muncar,37,Good,1,Good,24,Good,0,Good,37,Good
+Malaysia,Taiping,131,Unhealthy for Sensitive Groups,3,Good,24,Good,10,Good,131,Unhealthy for Sensitive Groups
+Thailand,Nong Phai,44,Good,0,Good,21,Good,0,Good,44,Good
+Thailand,Warin Chamrap,58,Moderate,1,Good,26,Good,0,Good,58,Moderate
+Indonesia,Margahayu,98,Moderate,2,Good,73,Moderate,1,Good,98,Moderate
+Philippines,Maranding,42,Good,0,Good,15,Good,0,Good,42,Good
+Malaysia,Teluk Intan,90,Moderate,2,Good,57,Moderate,1,Good,90,Moderate
+Malaysia,Rawang,163,Unhealthy,6,Good,8,Good,25,Good,163,Unhealthy
+Myanmar,Taungdwingyi,28,Good,0,Good,25,Good,0,Good,28,Good
+Thailand,Chiang Mai,20,Good,0,Good,20,Good,0,Good,20,Good
+Indonesia,Prambanan,55,Moderate,1,Good,27,Good,0,Good,55,Moderate
+Vietnam,Vinh,105,Unhealthy for Sensitive Groups,4,Good,27,Good,6,Good,105,Unhealthy for Sensitive Groups
+Myanmar,Paungde,33,Good,1,Good,17,Good,0,Good,33,Good
+Thailand,Nakhon Si Thammarat,58,Moderate,1,Good,32,Good,0,Good,58,Moderate
+Indonesia,Kabanjahe,22,Good,0,Good,18,Good,0,Good,22,Good
+Philippines,Teresa,65,Moderate,1,Good,25,Good,2,Good,65,Moderate
+Malaysia,Marang,70,Moderate,1,Good,38,Good,0,Good,70,Moderate

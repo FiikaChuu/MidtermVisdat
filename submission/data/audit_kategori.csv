@@ -1,0 +1,13 @@
+Country,City,AQI Value,AQI Category,kategori_interval
+Vietnam,Thai Nguyen,150,Unhealthy,Unhealthy for Sensitive Groups
+Indonesia,Balung,100,Unhealthy for Sensitive Groups,Moderate
+Philippines,Titay,100,Unhealthy for Sensitive Groups,Moderate
+Indonesia,Pemalang,100,Unhealthy for Sensitive Groups,Moderate
+Philippines,Santa Ana,150,Unhealthy,Unhealthy for Sensitive Groups
+Indonesia,Pecangakan,150,Unhealthy,Unhealthy for Sensitive Groups
+Malaysia,Bukit Mertajam,150,Unhealthy,Unhealthy for Sensitive Groups
+Malaysia,Sungai Petani,150,Unhealthy,Unhealthy for Sensitive Groups
+Malaysia,Juru,150,Unhealthy,Unhealthy for Sensitive Groups
+Malaysia,Alor Gajah,100,Unhealthy for Sensitive Groups,Moderate
+Indonesia,Tayu,100,Unhealthy for Sensitive Groups,Moderate
+Indonesia,Mojokerto,150,Unhealthy,Unhealthy for Sensitive Groups
